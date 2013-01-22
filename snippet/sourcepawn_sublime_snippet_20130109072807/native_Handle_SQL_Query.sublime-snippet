@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_Query(${1:Handle_database}, ${2:const_String_query})]]></content>
+	<tabTrigger>sQL_Query</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

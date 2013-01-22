@@ -1,0 +1,9 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[public CookieMenuHandler(client, CookieMenuAction:action, any:info, String:buffer[], maxlen)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public CookieMenuHandler</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

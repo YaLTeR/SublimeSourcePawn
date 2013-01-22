@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKConf_Virtual]]></content>
+	<tabTrigger>SDKConf_Virtual</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFObjectMode_Exit]]></content>
+	<tabTrigger>TFObjectMode_Exit</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/strings</description>
+	<content><![CDATA[String_StartsWith(${1:const_String_str}, ${2:const_String_subString})]]></content>
+	<tabTrigger>string_StartsWith</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetMenuPagination(${1:Handle_menu})]]></content>
+	<tabTrigger>getMenuPagination</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

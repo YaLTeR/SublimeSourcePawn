@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_SLOT_PRIMARY]]></content>
+	<tabTrigger>CS_SLOT_PRIMARY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

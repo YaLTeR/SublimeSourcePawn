@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_TerroristsNotEscaped]]></content>
+	<tabTrigger>CSRoundEnd_TerroristsNotEscaped</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

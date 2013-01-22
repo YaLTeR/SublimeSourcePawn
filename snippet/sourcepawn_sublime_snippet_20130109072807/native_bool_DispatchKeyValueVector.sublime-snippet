@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[DispatchKeyValueVector(${1:entity}, ${2:const_String_keyName}, ${3:const_Float_vector_3})]]></content>
+	<tabTrigger>dispatchKeyValueVector</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

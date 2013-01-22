@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_SOUNDSYSTEM]]></content>
+	<tabTrigger>FCVAR_SOUNDSYSTEM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

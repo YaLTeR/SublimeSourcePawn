@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Milked]]></content>
+	<tabTrigger>TFCond_Milked</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

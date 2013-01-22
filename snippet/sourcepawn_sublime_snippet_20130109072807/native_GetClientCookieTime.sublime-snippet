@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[GetClientCookieTime(${1:client}, ${2:Handle_cookie})]]></content>
+	<tabTrigger>getClientCookieTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetCmdArgString(${1:String_buffer}, ${2:maxlength})]]></content>
+	<tabTrigger>getCmdArgString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[FindCharInString(${1:const_String_str}, ${2:c})]]></content>
+	<tabTrigger>findCharInString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

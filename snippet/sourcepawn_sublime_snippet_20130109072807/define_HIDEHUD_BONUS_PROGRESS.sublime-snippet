@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[HIDEHUD_BONUS_PROGRESS]]></content>
+	<tabTrigger>HIDEHUD_BONUS_PROGRESS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

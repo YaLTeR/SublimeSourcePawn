@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetClientEyeAngles(${1:client}, ${2:Float_ang_3})]]></content>
+	<tabTrigger>getClientEyeAngles</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[ET_Hook]]></content>
+	<tabTrigger>ET_Hook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[HIDEHUD_CHAT]]></content>
+	<tabTrigger>HIDEHUD_CHAT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

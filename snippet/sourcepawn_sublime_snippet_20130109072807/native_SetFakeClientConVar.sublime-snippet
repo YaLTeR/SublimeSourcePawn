@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[SetFakeClientConVar(${1:client}, ${2:const_String_cvar}, ${3:const_String_value})]]></content>
+	<tabTrigger>setFakeClientConVar</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

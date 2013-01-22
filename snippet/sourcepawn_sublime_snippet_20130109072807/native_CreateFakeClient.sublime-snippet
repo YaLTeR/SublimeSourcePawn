@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[CreateFakeClient(${1:const_String_name})]]></content>
+	<tabTrigger>createFakeClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

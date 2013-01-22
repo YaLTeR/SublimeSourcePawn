@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[RemoveFromArray(${1:Handle_array}, ${2:index})]]></content>
+	<tabTrigger>removeFromArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

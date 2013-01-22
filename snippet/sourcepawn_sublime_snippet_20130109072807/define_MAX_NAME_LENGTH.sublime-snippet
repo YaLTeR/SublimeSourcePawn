@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[MAX_NAME_LENGTH]]></content>
+	<tabTrigger>MAX_NAME_LENGTH</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

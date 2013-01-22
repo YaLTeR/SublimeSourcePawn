@@ -1,0 +1,9 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[public MsgPostHook(UserMsg:msg_id, bool:sent)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public MsgPostHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

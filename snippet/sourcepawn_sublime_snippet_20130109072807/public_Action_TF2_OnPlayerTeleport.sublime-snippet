@@ -1,0 +1,9 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[public Action:TF2_OnPlayerTeleport(client, teleporter, &bool:result)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:TF2_OnPlayerTeleport</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

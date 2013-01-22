@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_SwitchTeam(${1:client}, ${2:team})]]></content>
+	<tabTrigger>cS_SwitchTeam</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

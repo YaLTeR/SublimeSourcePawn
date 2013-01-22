@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetDriverIdent(${1:Handle_driver}, ${2:String_ident}, ${3:maxlength})]]></content>
+	<tabTrigger>sQL_GetDriverIdent</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

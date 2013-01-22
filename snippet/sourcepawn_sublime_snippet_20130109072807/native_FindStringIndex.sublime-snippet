@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[FindStringIndex(${1:tableidx}, ${2:const_String_str})]]></content>
+	<tabTrigger>findStringIndex</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

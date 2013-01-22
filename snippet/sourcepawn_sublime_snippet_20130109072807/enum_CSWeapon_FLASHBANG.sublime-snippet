@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSWeapon_FLASHBANG]]></content>
+	<tabTrigger>CSWeapon_FLASHBANG</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

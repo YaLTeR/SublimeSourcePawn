@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsFakeClient(${1:client})]]></content>
+	<tabTrigger>isFakeClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

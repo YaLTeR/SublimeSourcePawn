@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetWeaponPlayerAmmo(${1:client}, ${2:const_String_className})]]></content>
+	<tabTrigger>client_SetWeaponPlayerAmmo</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

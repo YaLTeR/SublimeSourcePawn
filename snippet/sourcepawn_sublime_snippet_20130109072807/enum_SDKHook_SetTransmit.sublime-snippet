@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_SetTransmit]]></content>
+	<tabTrigger>SDKHook_SetTransmit</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

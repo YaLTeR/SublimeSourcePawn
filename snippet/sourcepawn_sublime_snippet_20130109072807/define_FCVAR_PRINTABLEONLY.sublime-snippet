@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_PRINTABLEONLY]]></content>
+	<tabTrigger>FCVAR_PRINTABLEONLY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

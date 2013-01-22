@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSWeapon_GALIL]]></content>
+	<tabTrigger>CSWeapon_GALIL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

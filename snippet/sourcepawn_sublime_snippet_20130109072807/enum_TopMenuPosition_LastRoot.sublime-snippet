@@ -1,0 +1,6 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[TopMenuPosition_LastRoot]]></content>
+	<tabTrigger>TopMenuPosition_LastRoot</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

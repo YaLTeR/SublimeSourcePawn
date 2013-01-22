@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SOLID_VPHYSICS]]></content>
+	<tabTrigger>SOLID_VPHYSICS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

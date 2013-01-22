@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[VOICE_MUTED]]></content>
+	<tabTrigger>VOICE_MUTED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SetMenuTitle(${1:Handle_menu}, ${2:const_String_fmt})]]></content>
+	<tabTrigger>setMenuTitle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

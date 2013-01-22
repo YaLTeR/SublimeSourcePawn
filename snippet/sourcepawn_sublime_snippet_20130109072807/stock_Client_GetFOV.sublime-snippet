@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetFOV(${1:client})]]></content>
+	<tabTrigger>client_GetFOV</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

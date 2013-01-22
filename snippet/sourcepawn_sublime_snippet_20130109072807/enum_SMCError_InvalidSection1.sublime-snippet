@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMCError_InvalidSection1]]></content>
+	<tabTrigger>SMCError_InvalidSection1</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

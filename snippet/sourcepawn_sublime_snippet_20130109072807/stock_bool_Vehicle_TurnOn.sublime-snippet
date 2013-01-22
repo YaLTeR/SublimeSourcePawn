@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/vehicles</description>
+	<content><![CDATA[Vehicle_TurnOn(${1:vehicle})]]></content>
+	<tabTrigger>vehicle_TurnOn</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

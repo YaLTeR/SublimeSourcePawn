@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientTeam(${1:client})]]></content>
+	<tabTrigger>getClientTeam</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

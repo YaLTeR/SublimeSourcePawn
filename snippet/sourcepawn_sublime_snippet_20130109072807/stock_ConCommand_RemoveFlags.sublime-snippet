@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/concommands</description>
+	<content><![CDATA[ConCommand_RemoveFlags(${1:const_String_command}, ${2:const_flags})]]></content>
+	<tabTrigger>conCommand_RemoveFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

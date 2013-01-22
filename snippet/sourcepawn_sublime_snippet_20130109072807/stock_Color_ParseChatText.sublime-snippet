@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/colors</description>
+	<content><![CDATA[Color_ParseChatText(${1:const_String_str}, ${2:String_buffer}, ${3:size})]]></content>
+	<tabTrigger>color_ParseChatText</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

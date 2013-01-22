@@ -1,0 +1,6 @@
+<snippet>
+	<description>profiler</description>
+	<content><![CDATA[StartProfiling(${1:Handle_prof})]]></content>
+	<tabTrigger>startProfiling</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

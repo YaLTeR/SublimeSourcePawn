@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[ShowMOTDPanel(${1:client}, ${2:const_String_title}, ${3:const_String_msg})]]></content>
+	<tabTrigger>showMOTDPanel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

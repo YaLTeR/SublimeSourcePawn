@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_GetEntityIndex()]]></content>
+	<tabTrigger>tR_GetEntityIndex</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

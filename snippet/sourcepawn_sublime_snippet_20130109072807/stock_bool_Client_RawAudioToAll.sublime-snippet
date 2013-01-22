@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_RawAudioToAll(${1:const_emitter}, ${2:const_String_soundfile})]]></content>
+	<tabTrigger>client_RawAudioToAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

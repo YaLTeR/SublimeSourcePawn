@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[MapChange_Instant]]></content>
+	<tabTrigger>MapChange_Instant</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

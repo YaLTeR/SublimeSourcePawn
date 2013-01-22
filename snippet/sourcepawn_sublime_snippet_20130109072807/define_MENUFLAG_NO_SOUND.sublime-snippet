@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MENUFLAG_NO_SOUND]]></content>
+	<tabTrigger>MENUFLAG_NO_SOUND</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

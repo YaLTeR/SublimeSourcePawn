@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_HAS_PLAYER_CHILD]]></content>
+	<tabTrigger>EFL_HAS_PLAYER_CHILD</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

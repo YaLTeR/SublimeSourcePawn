@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSWeapon_NOVA]]></content>
+	<tabTrigger>CSWeapon_NOVA</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

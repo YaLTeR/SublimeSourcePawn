@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[FindEntityByClassname(${1:startEnt}, ${2:const_String_classname})]]></content>
+	<tabTrigger>findEntityByClassname</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

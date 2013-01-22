@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientAvgData(${1:client}, ${2:NetFlow_flow})]]></content>
+	<tabTrigger>getClientAvgData</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[GetTickedTime()]]></content>
+	<tabTrigger>getTickedTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

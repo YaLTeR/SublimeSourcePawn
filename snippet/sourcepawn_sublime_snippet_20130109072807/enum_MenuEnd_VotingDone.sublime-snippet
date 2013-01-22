@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuEnd_VotingDone]]></content>
+	<tabTrigger>MenuEnd_VotingDone</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

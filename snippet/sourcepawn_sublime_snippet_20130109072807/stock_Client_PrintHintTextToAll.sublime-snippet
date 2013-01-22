@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_PrintHintTextToAll(${1:const_String_format})]]></content>
+	<tabTrigger>client_PrintHintTextToAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>handles</description>
+	<content><![CDATA[CloneHandle(${1:Handle_hndl})]]></content>
+	<tabTrigger>cloneHandle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

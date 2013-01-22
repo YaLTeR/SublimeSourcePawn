@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[TEMP_REQUIRE_EXTENSIONS]]></content>
+	<tabTrigger>TEMP_REQUIRE_EXTENSIONS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

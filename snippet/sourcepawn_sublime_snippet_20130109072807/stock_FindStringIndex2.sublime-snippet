@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/general</description>
+	<content><![CDATA[FindStringIndex2(${1:tableidx}, ${2:const_String_str})]]></content>
+	<tabTrigger>findStringIndex2</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

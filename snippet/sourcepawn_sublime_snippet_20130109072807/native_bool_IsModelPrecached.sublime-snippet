@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[IsModelPrecached(${1:const_String_model})]]></content>
+	<tabTrigger>isModelPrecached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

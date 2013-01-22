@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_REMOVENORAGDOLL]]></content>
+	<tabTrigger>DMG_REMOVENORAGDOLL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

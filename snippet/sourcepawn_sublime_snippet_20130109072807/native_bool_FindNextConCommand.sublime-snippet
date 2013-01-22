@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FindNextConCommand(${1:Handle_search}, ${2:String_buffer}, ${3:max_size}, ${4:_bool_isCommand})]]></content>
+	<tabTrigger>findNextConCommand</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

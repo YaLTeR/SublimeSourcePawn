@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PUSH_BREAKABLE]]></content>
+	<tabTrigger>SF_PUSH_BREAKABLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

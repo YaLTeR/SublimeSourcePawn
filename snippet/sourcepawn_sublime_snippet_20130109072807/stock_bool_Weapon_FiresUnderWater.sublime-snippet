@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_FiresUnderWater(${1:weapon})]]></content>
+	<tabTrigger>weapon_FiresUnderWater</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

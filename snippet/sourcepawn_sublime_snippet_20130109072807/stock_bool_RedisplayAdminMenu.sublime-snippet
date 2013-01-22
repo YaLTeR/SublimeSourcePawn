@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[RedisplayAdminMenu(${1:Handle_topmenu}, ${2:client})]]></content>
+	<tabTrigger>redisplayAdminMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

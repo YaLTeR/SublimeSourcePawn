@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfReadVecNormal(${1:Handle_bf}, ${2:Float_vec_3})]]></content>
+	<tabTrigger>bfReadVecNormal</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

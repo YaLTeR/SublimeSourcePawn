@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_SLOWBURN]]></content>
+	<tabTrigger>DMG_SLOWBURN</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

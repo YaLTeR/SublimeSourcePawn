@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[GetPluginFilename(${1:Handle_plugin}, ${2:String_buffer}, ${3:maxlength})]]></content>
+	<tabTrigger>getPluginFilename</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[GetVectorLength(${1:const_Float_vec_3})]]></content>
+	<tabTrigger>getVectorLength</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

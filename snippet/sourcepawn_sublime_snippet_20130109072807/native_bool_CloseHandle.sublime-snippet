@@ -1,0 +1,6 @@
+<snippet>
+	<description>handles</description>
+	<content><![CDATA[CloseHandle(${1:Handle_hndl})]]></content>
+	<tabTrigger>closeHandle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

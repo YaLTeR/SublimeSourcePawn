@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[ITEMDRAW_RAWLINE]]></content>
+	<tabTrigger>ITEMDRAW_RAWLINE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

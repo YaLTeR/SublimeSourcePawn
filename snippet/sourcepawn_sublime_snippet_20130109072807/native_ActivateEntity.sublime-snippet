@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[ActivateEntity(${1:entity})]]></content>
+	<tabTrigger>activateEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

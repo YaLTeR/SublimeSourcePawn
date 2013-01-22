@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnGameFrame()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnGameFrame</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

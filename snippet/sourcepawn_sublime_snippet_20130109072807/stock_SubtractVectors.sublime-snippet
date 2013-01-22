@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[SubtractVectors(${1:const_Float_vec1_3}, ${2:const_Float_vec2_3}, ${3:Float_result_3})]]></content>
+	<tabTrigger>subtractVectors</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

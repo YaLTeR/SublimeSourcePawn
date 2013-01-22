@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[HookConVarChange(${1:Handle_convar}, ${2:ConVarChanged_callback})]]></content>
+	<tabTrigger>hookConVarChange</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

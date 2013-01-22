@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_CUSTOM_PENETRATE_MY_TEAM]]></content>
+	<tabTrigger>TF_CUSTOM_PENETRATE_MY_TEAM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

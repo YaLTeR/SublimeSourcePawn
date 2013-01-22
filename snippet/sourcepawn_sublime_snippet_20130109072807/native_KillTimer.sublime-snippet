@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[KillTimer(${1:Handle_timer})]]></content>
+	<tabTrigger>killTimer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

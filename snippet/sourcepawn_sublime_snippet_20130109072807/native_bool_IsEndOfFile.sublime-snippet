@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[IsEndOfFile(${1:Handle_file})]]></content>
+	<tabTrigger>isEndOfFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

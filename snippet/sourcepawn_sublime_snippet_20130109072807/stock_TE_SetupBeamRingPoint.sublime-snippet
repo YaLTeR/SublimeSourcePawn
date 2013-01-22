@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupBeamRingPoint(${1:const_Float_center_3}, ${2:Float_Start_Radius}, ${3:Float_End_Radius}, ${4:ModelIndex}, ${5:HaloIndex}, ${6:StartFrame}, ${7:FrameRate}, ${8:Float_Life}, ${9:Float_Width}, ${10:Float_Amplitude}, ${11:const_Color_4}, ${12:Speed}, ${13:Flags})]]></content>
+	<tabTrigger>tE_SetupBeamRingPoint</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

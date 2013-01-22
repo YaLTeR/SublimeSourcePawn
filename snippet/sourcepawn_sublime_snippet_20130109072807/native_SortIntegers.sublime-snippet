@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortIntegers(${1:array}, ${2:array_size})]]></content>
+	<tabTrigger>sortIntegers</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

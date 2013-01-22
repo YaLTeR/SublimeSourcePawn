@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[QueryClientConVar(${1:client}, ${2:const_String_cvarName}, ${3:ConVarQueryFinished_callback})]]></content>
+	<tabTrigger>queryClientConVar</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

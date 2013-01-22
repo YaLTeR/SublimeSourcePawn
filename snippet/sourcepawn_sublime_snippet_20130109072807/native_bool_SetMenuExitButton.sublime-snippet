@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SetMenuExitButton(${1:Handle_menu}, ${2:bool_button})]]></content>
+	<tabTrigger>setMenuExitButton</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

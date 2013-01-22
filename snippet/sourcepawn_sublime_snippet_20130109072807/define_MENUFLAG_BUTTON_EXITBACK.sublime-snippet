@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MENUFLAG_BUTTON_EXITBACK]]></content>
+	<tabTrigger>MENUFLAG_BUTTON_EXITBACK</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

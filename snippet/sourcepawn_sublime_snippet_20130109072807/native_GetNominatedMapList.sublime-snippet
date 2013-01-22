@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[GetNominatedMapList(${1:Handle_maparray})]]></content>
+	<tabTrigger>getNominatedMapList</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

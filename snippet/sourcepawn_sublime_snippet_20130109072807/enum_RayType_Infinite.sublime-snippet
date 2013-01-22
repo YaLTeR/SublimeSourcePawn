@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[RayType_Infinite]]></content>
+	<tabTrigger>RayType_Infinite</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

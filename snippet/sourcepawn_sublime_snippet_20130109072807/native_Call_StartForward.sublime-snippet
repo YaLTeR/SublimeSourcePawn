@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_StartForward(${1:Handle_fwd})]]></content>
+	<tabTrigger>call_StartForward</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

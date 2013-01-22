@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[strcopy(${1:String_dest}, ${2:destLen}, ${3:const_String_source})]]></content>
+	<tabTrigger>strcopy</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[Sort_Ascending]]></content>
+	<tabTrigger>Sort_Ascending</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

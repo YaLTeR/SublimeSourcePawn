@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetDriver()]]></content>
+	<tabTrigger>sQL_GetDriver</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

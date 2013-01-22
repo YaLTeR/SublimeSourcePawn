@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[FindValueInArray(${1:Handle_array}, ${2:any_item})]]></content>
+	<tabTrigger>findValueInArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

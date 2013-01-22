@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_GetClass(${1:const_String_classname})]]></content>
+	<tabTrigger>tF2_GetClass</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

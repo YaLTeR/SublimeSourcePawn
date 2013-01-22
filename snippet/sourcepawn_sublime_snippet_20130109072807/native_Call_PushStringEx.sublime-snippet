@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_PushStringEx(${1:String_value}, ${2:length}, ${3:szflags}, ${4:cpflags})]]></content>
+	<tabTrigger>call_PushStringEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFHoliday_HalloweenOrFullMoon]]></content>
+	<tabTrigger>TFHoliday_HalloweenOrFullMoon</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_TConnect(${1:SQLTCallback_callback})]]></content>
+	<tabTrigger>sQL_TConnect</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

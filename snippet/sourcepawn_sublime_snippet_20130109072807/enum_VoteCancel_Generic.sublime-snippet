@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[VoteCancel_Generic]]></content>
+	<tabTrigger>VoteCancel_Generic</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

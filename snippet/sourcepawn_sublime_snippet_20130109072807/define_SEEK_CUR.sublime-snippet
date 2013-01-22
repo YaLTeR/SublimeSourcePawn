@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[SEEK_CUR]]></content>
+	<tabTrigger>SEEK_CUR</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

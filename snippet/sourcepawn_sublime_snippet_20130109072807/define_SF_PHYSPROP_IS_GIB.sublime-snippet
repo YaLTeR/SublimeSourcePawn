@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_IS_GIB]]></content>
+	<tabTrigger>SF_PHYSPROP_IS_GIB</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

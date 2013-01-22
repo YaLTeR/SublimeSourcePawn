@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_OnFire]]></content>
+	<tabTrigger>TFCond_OnFire</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

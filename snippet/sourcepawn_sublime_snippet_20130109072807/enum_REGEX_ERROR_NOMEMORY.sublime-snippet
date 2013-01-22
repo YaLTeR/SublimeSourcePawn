@@ -1,0 +1,6 @@
+<snippet>
+	<description>regex</description>
+	<content><![CDATA[REGEX_ERROR_NOMEMORY]]></content>
+	<tabTrigger>REGEX_ERROR_NOMEMORY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

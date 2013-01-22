@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents</description>
+	<content><![CDATA[TE_WriteAngles(${1:const_String_prop}, ${2:const_Float_angles_3})]]></content>
+	<tabTrigger>tE_WriteAngles</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

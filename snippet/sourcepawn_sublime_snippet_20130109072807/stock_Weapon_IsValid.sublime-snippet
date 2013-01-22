@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_IsValid(${1:weapon})]]></content>
+	<tabTrigger>weapon_IsValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FileSeek(${1:Handle_file}, ${2:position}, ${3:where})]]></content>
+	<tabTrigger>fileSeek</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

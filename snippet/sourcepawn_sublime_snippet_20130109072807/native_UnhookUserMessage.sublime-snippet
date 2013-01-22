@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[UnhookUserMessage(${1:UserMsg_msg_id}, ${2:MsgHook_hook})]]></content>
+	<tabTrigger>unhookUserMessage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

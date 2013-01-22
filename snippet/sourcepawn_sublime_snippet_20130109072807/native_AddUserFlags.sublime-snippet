@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[AddUserFlags(${1:client}, ${2:AdminFlag_...})]]></content>
+	<tabTrigger>addUserFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

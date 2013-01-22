@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[AdminCache_Admins]]></content>
+	<tabTrigger>AdminCache_Admins</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

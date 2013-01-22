@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_GetPercentageFloat(${1:Float_value}, ${2:Float_all})]]></content>
+	<tabTrigger>math_GetPercentageFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

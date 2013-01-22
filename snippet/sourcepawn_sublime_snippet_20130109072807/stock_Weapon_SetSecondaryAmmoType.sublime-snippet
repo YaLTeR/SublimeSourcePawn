@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_SetSecondaryAmmoType(${1:weapon}, ${2:type})]]></content>
+	<tabTrigger>weapon_SetSecondaryAmmoType</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

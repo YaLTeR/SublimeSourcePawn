@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_Min(${1:any_value}, ${2:any_min})]]></content>
+	<tabTrigger>math_Min</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

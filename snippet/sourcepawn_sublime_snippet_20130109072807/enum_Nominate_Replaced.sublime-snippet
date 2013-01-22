@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[Nominate_Replaced]]></content>
+	<tabTrigger>Nominate_Replaced</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

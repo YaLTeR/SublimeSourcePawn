@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDATTN_IDLE]]></content>
+	<tabTrigger>SNDATTN_IDLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

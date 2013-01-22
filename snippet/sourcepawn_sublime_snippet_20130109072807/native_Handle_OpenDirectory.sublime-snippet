@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[OpenDirectory(${1:const_String_path})]]></content>
+	<tabTrigger>openDirectory</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

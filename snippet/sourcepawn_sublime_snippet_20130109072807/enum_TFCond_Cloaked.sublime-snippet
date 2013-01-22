@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Cloaked]]></content>
+	<tabTrigger>TFCond_Cloaked</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

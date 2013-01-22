@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_CUSTOM_TAUNT_ARROW_STAB]]></content>
+	<tabTrigger>TF_CUSTOM_TAUNT_ARROW_STAB</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

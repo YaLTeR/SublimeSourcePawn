@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_SetPrimaryClip(${1:weapon}, ${2:value})]]></content>
+	<tabTrigger>weapon_SetPrimaryClip</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

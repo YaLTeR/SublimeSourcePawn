@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[Nominate_InvalidMap]]></content>
+	<tabTrigger>Nominate_InvalidMap</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

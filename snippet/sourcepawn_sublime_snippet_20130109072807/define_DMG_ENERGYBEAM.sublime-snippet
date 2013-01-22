@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_ENERGYBEAM]]></content>
+	<tabTrigger>DMG_ENERGYBEAM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

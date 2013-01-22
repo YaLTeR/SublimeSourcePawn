@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[ClearArray(${1:Handle_array})]]></content>
+	<tabTrigger>clearArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

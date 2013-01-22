@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[Sort_Random]]></content>
+	<tabTrigger>Sort_Random</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

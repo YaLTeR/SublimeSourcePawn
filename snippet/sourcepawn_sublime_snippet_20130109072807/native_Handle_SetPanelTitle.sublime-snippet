@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SetPanelTitle(${1:Handle_panel}, ${2:const_String_text})]]></content>
+	<tabTrigger>setPanelTitle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

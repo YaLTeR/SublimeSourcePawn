@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[SetRandomSeed(${1:seed})]]></content>
+	<tabTrigger>setRandomSeed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

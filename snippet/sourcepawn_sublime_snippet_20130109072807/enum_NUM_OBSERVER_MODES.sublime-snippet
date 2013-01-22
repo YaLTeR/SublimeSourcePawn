@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[NUM_OBSERVER_MODES]]></content>
+	<tabTrigger>NUM_OBSERVER_MODES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

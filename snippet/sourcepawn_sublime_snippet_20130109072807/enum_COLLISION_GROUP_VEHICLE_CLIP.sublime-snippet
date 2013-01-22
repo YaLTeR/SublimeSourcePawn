@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[COLLISION_GROUP_VEHICLE_CLIP]]></content>
+	<tabTrigger>COLLISION_GROUP_VEHICLE_CLIP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

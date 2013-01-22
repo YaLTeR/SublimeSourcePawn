@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_EXPLFLAG_NOFIREBALLSMOKE]]></content>
+	<tabTrigger>TE_EXPLFLAG_NOFIREBALLSMOKE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

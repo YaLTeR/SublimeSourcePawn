@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[GetVectorVectors(${1:const_Float_vec_3}, ${2:Float_right_3}, ${3:Float_up_3})]]></content>
+	<tabTrigger>getVectorVectors</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

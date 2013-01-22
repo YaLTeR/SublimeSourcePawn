@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_FetchFloat(${1:Handle_query}, ${2:field})]]></content>
+	<tabTrigger>sQL_FetchFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

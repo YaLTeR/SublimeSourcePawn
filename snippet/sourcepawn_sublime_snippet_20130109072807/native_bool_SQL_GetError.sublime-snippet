@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetError(${1:Handle_hndl}, ${2:String_error}, ${3:maxlength})]]></content>
+	<tabTrigger>sQL_GetError</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

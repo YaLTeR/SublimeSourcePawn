@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[ThrowNativeError(${1:error}, ${2:const_String_fmt})]]></content>
+	<tabTrigger>throwNativeError</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

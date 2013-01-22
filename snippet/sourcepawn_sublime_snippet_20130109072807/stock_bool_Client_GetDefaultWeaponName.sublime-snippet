@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetDefaultWeaponName(${1:client}, ${2:String_buffer}, ${3:size})]]></content>
+	<tabTrigger>client_GetDefaultWeaponName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

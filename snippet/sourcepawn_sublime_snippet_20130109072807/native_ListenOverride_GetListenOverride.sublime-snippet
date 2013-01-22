@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[GetListenOverride(${1:iReceiver}, ${2:iSender})]]></content>
+	<tabTrigger>getListenOverride</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

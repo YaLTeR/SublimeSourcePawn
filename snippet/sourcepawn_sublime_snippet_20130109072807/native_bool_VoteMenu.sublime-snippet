@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[VoteMenu(${1:Handle_menu}, ${2:clients}, ${3:numClients}, ${4:time})]]></content>
+	<tabTrigger>voteMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

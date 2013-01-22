@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetTeamName(${1:index}, ${2:String_name}, ${3:maxlength})]]></content>
+	<tabTrigger>getTeamName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

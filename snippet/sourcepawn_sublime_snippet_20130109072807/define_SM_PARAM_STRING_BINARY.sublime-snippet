@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SM_PARAM_STRING_BINARY]]></content>
+	<tabTrigger>SM_PARAM_STRING_BINARY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

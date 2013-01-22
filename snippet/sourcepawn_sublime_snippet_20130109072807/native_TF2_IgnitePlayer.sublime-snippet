@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_IgnitePlayer(${1:client}, ${2:target})]]></content>
+	<tabTrigger>tF2_IgnitePlayer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

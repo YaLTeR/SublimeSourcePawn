@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_GetTranslatedWeaponAlias(${1:const_String_alias}, ${2:String_weapon}, ${3:size})]]></content>
+	<tabTrigger>cS_GetTranslatedWeaponAlias</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

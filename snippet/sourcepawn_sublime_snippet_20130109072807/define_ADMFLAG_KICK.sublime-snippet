@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[ADMFLAG_KICK]]></content>
+	<tabTrigger>ADMFLAG_KICK</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>lang</description>
+	<content><![CDATA[GetLanguageCount()]]></content>
+	<tabTrigger>getLanguageCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

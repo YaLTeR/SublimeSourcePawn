@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF2_GetPlayerClass(${1:client})]]></content>
+	<tabTrigger>tF2_GetPlayerClass</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[VOTEFLAG_NO_REVOTES]]></content>
+	<tabTrigger>VOTEFLAG_NO_REVOTES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

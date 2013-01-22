@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_ACID]]></content>
+	<tabTrigger>DMG_ACID</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

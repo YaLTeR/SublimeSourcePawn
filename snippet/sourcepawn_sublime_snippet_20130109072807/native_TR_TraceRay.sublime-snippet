@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_TraceRay(${1:const_Float_pos_3}, ${2:const_Float_vec_3}, ${3:flags}, ${4:RayType_rtype})]]></content>
+	<tabTrigger>tR_TraceRay</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

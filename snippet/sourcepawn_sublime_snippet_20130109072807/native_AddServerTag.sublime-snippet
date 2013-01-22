@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[AddServerTag(${1:const_String_tag})]]></content>
+	<tabTrigger>addServerTag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

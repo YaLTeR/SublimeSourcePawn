@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[RemovePlayerItem(${1:client}, ${2:item})]]></content>
+	<tabTrigger>removePlayerItem</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

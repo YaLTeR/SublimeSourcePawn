@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortCustom1D(${1:array}, ${2:array_size}, ${3:SortFunc1D_sortfunc})]]></content>
+	<tabTrigger>sortCustom1D</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/edicts</description>
+	<content><![CDATA[Edict_FindByHammerId(${1:hammerId})]]></content>
+	<tabTrigger>edict_FindByHammerId</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

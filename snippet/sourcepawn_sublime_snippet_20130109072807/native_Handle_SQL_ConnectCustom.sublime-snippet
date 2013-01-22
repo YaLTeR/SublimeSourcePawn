@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_ConnectCustom(${1:Handle_keyvalues}, ${2:String_error}, ${3:maxlength}, ${4:bool_persistent})]]></content>
+	<tabTrigger>sQL_ConnectCustom</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

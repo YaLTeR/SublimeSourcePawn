@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[public Action:NormalSHook(clients[64], &numClients, String:sample[PLATFORM_MAX_PATH], &entity, &channel, &Float:volume, &level, &pitch, &flags)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:NormalSHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

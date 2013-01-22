@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMCError_InvalidProperty1]]></content>
+	<tabTrigger>SMCError_InvalidProperty1</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

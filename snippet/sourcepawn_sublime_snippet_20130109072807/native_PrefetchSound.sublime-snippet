@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[PrefetchSound(${1:const_String_nane})]]></content>
+	<tabTrigger>prefetchSound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

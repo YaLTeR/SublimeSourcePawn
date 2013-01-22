@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[Command_Deny]]></content>
+	<tabTrigger>Command_Deny</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

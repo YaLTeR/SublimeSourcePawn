@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[MOTDPANEL_TYPE_FILE]]></content>
+	<tabTrigger>MOTDPANEL_TYPE_FILE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

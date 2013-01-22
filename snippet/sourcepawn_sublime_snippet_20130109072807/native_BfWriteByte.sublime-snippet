@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfWriteByte(${1:Handle_bf}, ${2:byte})]]></content>
+	<tabTrigger>bfWriteByte</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

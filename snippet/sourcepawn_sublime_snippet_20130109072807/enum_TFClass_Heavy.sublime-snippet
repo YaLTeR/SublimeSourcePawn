@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFClass_Heavy]]></content>
+	<tabTrigger>TFClass_Heavy</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

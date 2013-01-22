@@ -1,0 +1,9 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[public Action:CommandListener(client, const String:command[], argc)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:CommandListener</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

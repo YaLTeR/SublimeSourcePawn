@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_SPONLY]]></content>
+	<tabTrigger>FCVAR_SPONLY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

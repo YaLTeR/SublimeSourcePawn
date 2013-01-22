@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientConnected(${1:client})]]></content>
+	<tabTrigger>isClientConnected</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

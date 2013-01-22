@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[Identity_Core]]></content>
+	<tabTrigger>Identity_Core</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

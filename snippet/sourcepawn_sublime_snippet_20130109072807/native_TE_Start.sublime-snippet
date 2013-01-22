@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents</description>
+	<content><![CDATA[TE_Start(${1:const_String_te_name})]]></content>
+	<tabTrigger>tE_Start</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

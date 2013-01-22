@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[ScaleVector(${1:Float_vec_3}, ${2:Float_scale})]]></content>
+	<tabTrigger>scaleVector</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

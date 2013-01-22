@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[GetAdminFlag(${1:AdminId_id}, ${2:AdminFlag_flag})]]></content>
+	<tabTrigger>getAdminFlag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

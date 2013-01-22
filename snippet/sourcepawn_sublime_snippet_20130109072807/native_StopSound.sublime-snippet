@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[StopSound(${1:entity}, ${2:channel}, ${3:const_String_name})]]></content>
+	<tabTrigger>stopSound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

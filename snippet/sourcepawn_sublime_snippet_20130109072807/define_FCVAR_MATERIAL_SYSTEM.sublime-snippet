@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_MATERIAL_SYSTEM]]></content>
+	<tabTrigger>FCVAR_MATERIAL_SYSTEM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

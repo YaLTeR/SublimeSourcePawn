@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[SEEK_END]]></content>
+	<tabTrigger>SEEK_END</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

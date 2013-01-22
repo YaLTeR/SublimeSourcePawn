@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_PrintToTopRaw(${1:client}, ${2:255}, ${3:255}, ${4:255}, ${5:255}, ${6:10.0}, ${7:const_String_text})]]></content>
+	<tabTrigger>client_PrintToTopRaw</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

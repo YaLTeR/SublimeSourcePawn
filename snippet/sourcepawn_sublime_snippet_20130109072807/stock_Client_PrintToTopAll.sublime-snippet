@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_PrintToTopAll(${1:255}, ${2:255}, ${3:255}, ${4:255}, ${5:10.0}, ${6:const_String_format})]]></content>
+	<tabTrigger>client_PrintToTopAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

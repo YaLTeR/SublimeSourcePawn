@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Dazed]]></content>
+	<tabTrigger>TFCond_Dazed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

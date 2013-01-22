@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[ResizeArray(${1:Handle_array}, ${2:newsize})]]></content>
+	<tabTrigger>resizeArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[IsDecalPrecached(${1:const_String_decal})]]></content>
+	<tabTrigger>isDecalPrecached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

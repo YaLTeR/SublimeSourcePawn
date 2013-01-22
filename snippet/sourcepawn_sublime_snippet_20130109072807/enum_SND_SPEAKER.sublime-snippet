@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SND_SPEAKER]]></content>
+	<tabTrigger>SND_SPEAKER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

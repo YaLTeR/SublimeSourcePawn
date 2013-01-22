@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[SHAKE_STOP]]></content>
+	<tabTrigger>SHAKE_STOP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_NO_DAMAGE_FORCES]]></content>
+	<tabTrigger>EFL_NO_DAMAGE_FORCES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

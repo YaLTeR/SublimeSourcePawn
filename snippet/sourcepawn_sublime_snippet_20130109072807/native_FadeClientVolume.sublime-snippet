@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[FadeClientVolume(${1:client}, ${2:Float_percent}, ${3:Float_outtime}, ${4:Float_holdtime}, ${5:Float_intime})]]></content>
+	<tabTrigger>fadeClientVolume</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

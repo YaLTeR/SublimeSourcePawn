@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[SetCmdReplySource(${1:ReplySource_source})]]></content>
+	<tabTrigger>setCmdReplySource</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

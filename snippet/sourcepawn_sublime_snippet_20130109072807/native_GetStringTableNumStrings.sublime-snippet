@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[GetStringTableNumStrings(${1:tableidx})]]></content>
+	<tabTrigger>getStringTableNumStrings</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

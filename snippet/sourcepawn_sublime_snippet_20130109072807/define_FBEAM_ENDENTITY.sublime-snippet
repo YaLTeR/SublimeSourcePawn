@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[FBEAM_ENDENTITY]]></content>
+	<tabTrigger>FBEAM_ENDENTITY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

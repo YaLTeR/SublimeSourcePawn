@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[RemoveUserFlags(${1:client}, ${2:AdminFlag_...})]]></content>
+	<tabTrigger>removeUserFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

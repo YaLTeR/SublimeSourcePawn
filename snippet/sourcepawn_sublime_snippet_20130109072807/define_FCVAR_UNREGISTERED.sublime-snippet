@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_UNREGISTERED]]></content>
+	<tabTrigger>FCVAR_UNREGISTERED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

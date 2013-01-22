@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[GetDistGainFromSoundLevel(${1:soundlevel}, ${2:Float_distance})]]></content>
+	<tabTrigger>getDistGainFromSoundLevel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

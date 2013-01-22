@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[RunAdminCacheChecks(${1:client})]]></content>
+	<tabTrigger>runAdminCacheChecks</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

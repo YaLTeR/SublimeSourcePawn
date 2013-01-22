@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF_STUNFLAGS_NORMALBONK]]></content>
+	<tabTrigger>TF_STUNFLAGS_NORMALBONK</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

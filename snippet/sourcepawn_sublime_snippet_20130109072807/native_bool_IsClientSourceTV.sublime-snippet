@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientSourceTV(${1:client})]]></content>
+	<tabTrigger>isClientSourceTV</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

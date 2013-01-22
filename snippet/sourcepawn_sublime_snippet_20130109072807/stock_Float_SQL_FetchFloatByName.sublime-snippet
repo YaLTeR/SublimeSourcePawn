@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/sql</description>
+	<content><![CDATA[SQL_FetchFloatByName(${1:Handle_query}, ${2:String_fieldName})]]></content>
+	<tabTrigger>sQL_FetchFloatByName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

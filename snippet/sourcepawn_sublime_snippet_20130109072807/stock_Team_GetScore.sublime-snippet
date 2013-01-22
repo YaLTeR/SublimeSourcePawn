@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[Team_GetScore(${1:index})]]></content>
+	<tabTrigger>team_GetScore</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

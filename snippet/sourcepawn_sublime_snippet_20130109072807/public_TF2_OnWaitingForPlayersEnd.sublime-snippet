@@ -1,0 +1,9 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[public TF2_OnWaitingForPlayersEnd()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public TF2_OnWaitingForPlayersEnd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

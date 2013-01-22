@@ -1,0 +1,9 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[public Action:MsgHook(UserMsg:msg_id, Handle:bf, const players[], playersNum, bool:reliable, bool:init)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:MsgHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

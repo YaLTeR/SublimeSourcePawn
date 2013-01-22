@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetMapTime(${1:client})]]></content>
+	<tabTrigger>client_GetMapTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[CookieMenu_YesNo_Int]]></content>
+	<tabTrigger>CookieMenu_YesNo_Int</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMC_ParseFile(${1:Handle_smc}, ${2:const_String_file})]]></content>
+	<tabTrigger>sMC_ParseFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

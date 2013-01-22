@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ConVarBound_Upper]]></content>
+	<tabTrigger>ConVarBound_Upper</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

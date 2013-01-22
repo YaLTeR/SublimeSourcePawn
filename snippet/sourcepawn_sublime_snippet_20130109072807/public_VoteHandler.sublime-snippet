@@ -1,0 +1,9 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[public VoteHandler(Handle:menu,num_votes,num_clients,const client_info[][2],num_items,const item_info[][2])
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public VoteHandler</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[public bool:Entity_ChangeOverTimeCallback(&entity, &Float:interval, &currentCall)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public bool:Entity_ChangeOverTimeCallback</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

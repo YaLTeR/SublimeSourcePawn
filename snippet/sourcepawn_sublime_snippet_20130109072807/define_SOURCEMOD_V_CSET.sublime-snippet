@@ -1,0 +1,6 @@
+<snippet>
+	<description>version_auto</description>
+	<content><![CDATA[SOURCEMOD_V_CSET]]></content>
+	<tabTrigger>SOURCEMOD_V_CSET</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

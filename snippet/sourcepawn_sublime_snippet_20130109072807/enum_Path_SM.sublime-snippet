@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[Path_SM]]></content>
+	<tabTrigger>Path_SM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

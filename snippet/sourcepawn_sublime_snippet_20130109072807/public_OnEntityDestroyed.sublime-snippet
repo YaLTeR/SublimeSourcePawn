@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[public OnEntityDestroyed(entity)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnEntityDestroyed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

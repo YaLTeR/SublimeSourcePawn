@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetMenuTitle(${1:Handle_menu}, ${2:String_buffer}, ${3:maxlength})]]></content>
+	<tabTrigger>getMenuTitle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

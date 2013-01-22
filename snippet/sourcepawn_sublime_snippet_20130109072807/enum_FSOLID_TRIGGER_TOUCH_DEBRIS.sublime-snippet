@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[FSOLID_TRIGGER_TOUCH_DEBRIS]]></content>
+	<tabTrigger>FSOLID_TRIGGER_TOUCH_DEBRIS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

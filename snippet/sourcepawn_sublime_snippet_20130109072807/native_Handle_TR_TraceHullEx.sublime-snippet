@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_TraceHullEx(${1:const_Float_pos_3}, ${2:const_Float_vec_3}, ${3:const_Float_mins_3}, ${4:const_Float_maxs_3}, ${5:flags})]]></content>
+	<tabTrigger>tR_TraceHullEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

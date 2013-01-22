@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[RayType_EndPoint]]></content>
+	<tabTrigger>RayType_EndPoint</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

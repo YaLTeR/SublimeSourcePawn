@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[NumberType_Int32]]></content>
+	<tabTrigger>NumberType_Int32</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

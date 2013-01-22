@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/debug</description>
+	<content><![CDATA[Debug_FloatArray(${1:const_Float_array})]]></content>
+	<tabTrigger>debug_FloatArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

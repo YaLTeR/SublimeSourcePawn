@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[SlapPlayer(${1:client})]]></content>
+	<tabTrigger>slapPlayer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

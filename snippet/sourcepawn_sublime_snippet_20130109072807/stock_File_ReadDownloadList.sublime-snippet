@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/files</description>
+	<content><![CDATA[File_ReadDownloadList(${1:const_String_path})]]></content>
+	<tabTrigger>file_ReadDownloadList</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[INVALID_FUNCTION]]></content>
+	<tabTrigger>INVALID_FUNCTION</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

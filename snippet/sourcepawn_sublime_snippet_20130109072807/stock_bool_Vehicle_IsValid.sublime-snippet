@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/vehicles</description>
+	<content><![CDATA[Vehicle_IsValid(${1:vehicle})]]></content>
+	<tabTrigger>vehicle_IsValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

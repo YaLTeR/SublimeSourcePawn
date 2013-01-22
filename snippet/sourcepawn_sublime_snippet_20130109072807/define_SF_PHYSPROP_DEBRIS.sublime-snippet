@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_DEBRIS]]></content>
+	<tabTrigger>SF_PHYSPROP_DEBRIS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

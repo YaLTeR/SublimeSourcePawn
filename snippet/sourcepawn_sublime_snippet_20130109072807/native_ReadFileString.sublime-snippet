@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[ReadFileString(${1:Handle_hndl}, ${2:String_buffer}, ${3:max_size})]]></content>
+	<tabTrigger>readFileString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

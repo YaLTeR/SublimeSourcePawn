@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[MakeVectorFromPoints(${1:const_Float_pt1_3}, ${2:const_Float_pt2_3}, ${3:Float_output_3})]]></content>
+	<tabTrigger>makeVectorFromPoints</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

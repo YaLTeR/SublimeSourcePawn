@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[SwapArrayItems(${1:Handle_array}, ${2:index1}, ${3:index2})]]></content>
+	<tabTrigger>swapArrayItems</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

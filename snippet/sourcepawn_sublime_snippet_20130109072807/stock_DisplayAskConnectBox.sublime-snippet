@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[DisplayAskConnectBox(${1:client}, ${2:Float_time}, ${3:const_String_ip})]]></content>
+	<tabTrigger>displayAskConnectBox</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

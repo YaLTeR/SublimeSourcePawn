@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[Team_GetName(${1:index}, ${2:String_str}, ${3:size})]]></content>
+	<tabTrigger>team_GetName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

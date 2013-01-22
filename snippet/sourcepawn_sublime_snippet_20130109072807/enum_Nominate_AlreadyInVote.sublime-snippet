@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[Nominate_AlreadyInVote]]></content>
+	<tabTrigger>Nominate_AlreadyInVote</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

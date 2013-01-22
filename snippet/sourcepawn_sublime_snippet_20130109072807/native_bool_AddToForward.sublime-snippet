@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[AddToForward(${1:Handle_fwd}, ${2:Handle_plugin}, ${3:Function_func})]]></content>
+	<tabTrigger>addToForward</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

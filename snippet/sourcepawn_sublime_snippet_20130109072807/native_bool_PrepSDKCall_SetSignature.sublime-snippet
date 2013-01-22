@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[PrepSDKCall_SetSignature(${1:SDKLibrary_lib}, ${2:const_String_signature}, ${3:bytes})]]></content>
+	<tabTrigger>prepSDKCall_SetSignature</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

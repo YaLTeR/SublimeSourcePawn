@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SOLID_BSP]]></content>
+	<tabTrigger>SOLID_BSP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

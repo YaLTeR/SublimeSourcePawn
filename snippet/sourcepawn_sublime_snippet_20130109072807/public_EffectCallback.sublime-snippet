@@ -1,0 +1,9 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[public EffectCallback(entity, any:data)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public EffectCallback</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

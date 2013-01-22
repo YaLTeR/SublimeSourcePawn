@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_Overflow(${1:any_value}, ${2:any_min}, ${3:any_max})]]></content>
+	<tabTrigger>math_Overflow</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

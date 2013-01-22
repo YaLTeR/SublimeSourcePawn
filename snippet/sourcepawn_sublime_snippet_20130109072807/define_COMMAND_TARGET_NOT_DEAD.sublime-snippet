@@ -1,0 +1,6 @@
+<snippet>
+	<description>commandfilters</description>
+	<content><![CDATA[COMMAND_TARGET_NOT_DEAD]]></content>
+	<tabTrigger>COMMAND_TARGET_NOT_DEAD</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

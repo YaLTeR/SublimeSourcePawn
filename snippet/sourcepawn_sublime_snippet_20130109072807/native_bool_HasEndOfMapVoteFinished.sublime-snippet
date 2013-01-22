@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[HasEndOfMapVoteFinished()]]></content>
+	<tabTrigger>hasEndOfMapVoteFinished</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

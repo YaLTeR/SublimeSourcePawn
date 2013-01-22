@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_FindByName(${1:const_String_name})]]></content>
+	<tabTrigger>client_FindByName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

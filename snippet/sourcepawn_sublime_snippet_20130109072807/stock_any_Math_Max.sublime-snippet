@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_Max(${1:any_value}, ${2:any_max})]]></content>
+	<tabTrigger>math_Max</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

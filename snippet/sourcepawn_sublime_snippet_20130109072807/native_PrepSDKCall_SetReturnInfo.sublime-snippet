@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[PrepSDKCall_SetReturnInfo(${1:SDKType_type}, ${2:SDKPassMethod_pass})]]></content>
+	<tabTrigger>prepSDKCall_SetReturnInfo</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

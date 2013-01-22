@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfReadFloat(${1:Handle_bf})]]></content>
+	<tabTrigger>bfReadFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

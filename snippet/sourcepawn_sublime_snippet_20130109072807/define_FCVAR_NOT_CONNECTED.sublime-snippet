@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_NOT_CONNECTED]]></content>
+	<tabTrigger>FCVAR_NOT_CONNECTED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

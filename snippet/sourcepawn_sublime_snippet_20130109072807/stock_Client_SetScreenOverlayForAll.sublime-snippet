@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetScreenOverlayForAll(${1:const_String_path})]]></content>
+	<tabTrigger>client_SetScreenOverlayForAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

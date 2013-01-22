@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientWeapon(${1:client}, ${2:String_weapon}, ${3:maxlen})]]></content>
+	<tabTrigger>getClientWeapon</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

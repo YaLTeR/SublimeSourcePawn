@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[Plugin_Running]]></content>
+	<tabTrigger>Plugin_Running</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

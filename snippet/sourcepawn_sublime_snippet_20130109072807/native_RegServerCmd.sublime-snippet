@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[RegServerCmd(${1:const_String_cmd}, ${2:SrvCmd_callback})]]></content>
+	<tabTrigger>regServerCmd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

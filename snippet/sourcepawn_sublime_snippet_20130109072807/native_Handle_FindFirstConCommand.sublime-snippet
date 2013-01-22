@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FindFirstConCommand(${1:String_buffer}, ${2:max_size}, ${3:_bool_isCommand})]]></content>
+	<tabTrigger>findFirstConCommand</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[RegClientCookie(${1:const_String_name}, ${2:const_String_description}, ${3:CookieAccess_access})]]></content>
+	<tabTrigger>regClientCookie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[SetConVarBounds(${1:Handle_convar}, ${2:ConVarBounds_type}, ${3:bool_set})]]></content>
+	<tabTrigger>setConVarBounds</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

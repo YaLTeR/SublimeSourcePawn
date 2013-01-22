@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_ThinkPost]]></content>
+	<tabTrigger>SDKHook_ThinkPost</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

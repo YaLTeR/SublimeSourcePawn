@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/server</description>
+	<content><![CDATA[Server_GetIP()]]></content>
+	<tabTrigger>server_GetIP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

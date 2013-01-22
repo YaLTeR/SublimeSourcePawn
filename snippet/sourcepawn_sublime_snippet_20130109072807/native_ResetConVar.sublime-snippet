@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ResetConVar(${1:Handle_convar})]]></content>
+	<tabTrigger>resetConVar</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

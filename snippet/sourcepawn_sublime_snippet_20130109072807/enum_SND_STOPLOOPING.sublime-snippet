@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SND_STOPLOOPING]]></content>
+	<tabTrigger>SND_STOPLOOPING</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

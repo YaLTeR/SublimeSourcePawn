@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_WHISPER]]></content>
+	<tabTrigger>SNDLEVEL_WHISPER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

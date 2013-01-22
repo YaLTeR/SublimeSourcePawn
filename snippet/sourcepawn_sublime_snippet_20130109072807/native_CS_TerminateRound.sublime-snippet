@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_TerminateRound(${1:Float_delay}, ${2:CSRoundEndReason_reason})]]></content>
+	<tabTrigger>cS_TerminateRound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

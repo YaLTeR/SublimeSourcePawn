@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[OpenFile(${1:const_String_file}, ${2:const_String_mode})]]></content>
+	<tabTrigger>openFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetPanelStyle(${1:Handle_panel})]]></content>
+	<tabTrigger>getPanelStyle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

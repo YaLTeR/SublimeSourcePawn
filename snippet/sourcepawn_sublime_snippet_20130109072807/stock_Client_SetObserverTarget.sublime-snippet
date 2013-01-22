@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetObserverTarget(${1:client}, ${2:entity})]]></content>
+	<tabTrigger>client_SetObserverTarget</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

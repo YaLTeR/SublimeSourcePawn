@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvSetVector(${1:Handle_kv}, ${2:const_String_key}, ${3:const_Float_vec_3})]]></content>
+	<tabTrigger>kvSetVector</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

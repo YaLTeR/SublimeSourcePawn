@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_GetMaxHealth]]></content>
+	<tabTrigger>SDKHook_GetMaxHealth</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvGetFloat(${1:Handle_kv}, ${2:const_String_key})]]></content>
+	<tabTrigger>kvGetFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[ET_Ignore]]></content>
+	<tabTrigger>ET_Ignore</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

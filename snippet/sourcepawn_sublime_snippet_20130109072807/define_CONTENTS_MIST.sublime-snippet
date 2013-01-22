@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_MIST]]></content>
+	<tabTrigger>CONTENTS_MIST</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

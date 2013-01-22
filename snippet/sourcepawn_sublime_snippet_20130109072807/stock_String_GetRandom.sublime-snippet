@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/strings</description>
+	<content><![CDATA[String_GetRandom(${1:String_buffer}, ${2:size})]]></content>
+	<tabTrigger>string_GetRandom</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

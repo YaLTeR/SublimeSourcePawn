@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMCError_TokenOverflow]]></content>
+	<tabTrigger>SMCError_TokenOverflow</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

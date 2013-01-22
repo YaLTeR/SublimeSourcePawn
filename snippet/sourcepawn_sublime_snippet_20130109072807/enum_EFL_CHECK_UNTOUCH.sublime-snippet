@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_CHECK_UNTOUCH]]></content>
+	<tabTrigger>EFL_CHECK_UNTOUCH</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

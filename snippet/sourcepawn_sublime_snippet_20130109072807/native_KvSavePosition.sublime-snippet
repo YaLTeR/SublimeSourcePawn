@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvSavePosition(${1:Handle_kv})]]></content>
+	<tabTrigger>kvSavePosition</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

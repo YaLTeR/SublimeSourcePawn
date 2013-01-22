@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/arrays</description>
+	<content><![CDATA[Array_FindHighestValue(${1:any_array}, ${2:size})]]></content>
+	<tabTrigger>array_FindHighestValue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

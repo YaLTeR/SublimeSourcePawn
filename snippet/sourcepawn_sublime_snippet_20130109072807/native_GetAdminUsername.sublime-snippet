@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[GetAdminUsername(${1:AdminId_id}, ${2:String_name}, ${3:maxlength})]]></content>
+	<tabTrigger>getAdminUsername</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

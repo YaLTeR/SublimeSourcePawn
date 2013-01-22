@@ -1,0 +1,9 @@
+<snippet>
+	<description>commandfilters</description>
+	<content><![CDATA[public bool:MultiTargetFilter(const String:pattern[], Handle:clients)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public bool:MultiTargetFilter</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

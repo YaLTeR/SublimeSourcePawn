@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[FindClientCookie(${1:const_String_name})]]></content>
+	<tabTrigger>findClientCookie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

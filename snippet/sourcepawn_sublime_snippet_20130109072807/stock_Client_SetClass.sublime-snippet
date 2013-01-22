@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetClass(${1:client}, ${2:class})]]></content>
+	<tabTrigger>client_SetClass</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

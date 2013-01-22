@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_HITBOX]]></content>
+	<tabTrigger>CONTENTS_HITBOX</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_EndTouch]]></content>
+	<tabTrigger>SDKHook_EndTouch</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

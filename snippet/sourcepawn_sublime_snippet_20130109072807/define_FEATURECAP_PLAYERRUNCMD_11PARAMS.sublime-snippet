@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_hooks</description>
+	<content><![CDATA[FEATURECAP_PLAYERRUNCMD_11PARAMS]]></content>
+	<tabTrigger>FEATURECAP_PLAYERRUNCMD_11PARAMS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

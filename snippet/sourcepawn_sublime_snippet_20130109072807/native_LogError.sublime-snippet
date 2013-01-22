@@ -1,0 +1,6 @@
+<snippet>
+	<description>logging</description>
+	<content><![CDATA[LogError(${1:const_String_format})]]></content>
+	<tabTrigger>logError</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

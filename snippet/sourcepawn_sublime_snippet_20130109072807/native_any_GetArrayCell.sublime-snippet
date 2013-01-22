@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[GetArrayCell(${1:Handle_array}, ${2:index})]]></content>
+	<tabTrigger>getArrayCell</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

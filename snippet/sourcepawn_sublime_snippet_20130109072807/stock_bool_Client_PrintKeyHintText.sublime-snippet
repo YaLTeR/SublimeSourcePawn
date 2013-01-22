@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_PrintKeyHintText(${1:client}, ${2:const_String_format})]]></content>
+	<tabTrigger>client_PrintKeyHintText</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

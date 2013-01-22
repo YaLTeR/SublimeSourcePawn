@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[ByteCountToCells(${1:size})]]></content>
+	<tabTrigger>byteCountToCells</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

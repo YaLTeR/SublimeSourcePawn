@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientAbsAngles(${1:client}, ${2:Float_ang_3})]]></content>
+	<tabTrigger>getClientAbsAngles</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

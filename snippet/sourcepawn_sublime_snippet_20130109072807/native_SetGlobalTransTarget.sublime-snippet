@@ -1,0 +1,6 @@
+<snippet>
+	<description>lang</description>
+	<content><![CDATA[SetGlobalTransTarget(${1:client})]]></content>
+	<tabTrigger>setGlobalTransTarget</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

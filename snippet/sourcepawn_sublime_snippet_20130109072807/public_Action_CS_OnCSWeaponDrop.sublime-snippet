@@ -1,0 +1,9 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[public Action:CS_OnCSWeaponDrop(client, weaponIndex)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:CS_OnCSWeaponDrop</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_GUNFIRE]]></content>
+	<tabTrigger>SNDLEVEL_GUNFIRE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

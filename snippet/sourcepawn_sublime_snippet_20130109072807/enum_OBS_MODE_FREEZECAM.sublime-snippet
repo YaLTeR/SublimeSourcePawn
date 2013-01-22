@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[OBS_MODE_FREEZECAM]]></content>
+	<tabTrigger>OBS_MODE_FREEZECAM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

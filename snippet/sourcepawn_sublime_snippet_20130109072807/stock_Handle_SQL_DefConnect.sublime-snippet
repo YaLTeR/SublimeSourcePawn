@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_DefConnect(${1:String_error}, ${2:maxlength})]]></content>
+	<tabTrigger>sQL_DefConnect</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

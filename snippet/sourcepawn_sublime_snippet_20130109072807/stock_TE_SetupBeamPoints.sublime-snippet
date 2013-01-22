@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupBeamPoints(${1:const_Float_start_3}, ${2:const_Float_end_3}, ${3:ModelIndex}, ${4:HaloIndex}, ${5:StartFrame}, ${6:FrameRate}, ${7:Float_Life}, ${8:Float_Width}, ${9:Float_EndWidth}, ${10:FadeLength}, ${11:Float_Amplitude}, ${12:const_Color_4}, ${13:Speed})]]></content>
+	<tabTrigger>tE_SetupBeamPoints</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

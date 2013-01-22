@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_INPUTSYSTEM]]></content>
+	<tabTrigger>FCVAR_INPUTSYSTEM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

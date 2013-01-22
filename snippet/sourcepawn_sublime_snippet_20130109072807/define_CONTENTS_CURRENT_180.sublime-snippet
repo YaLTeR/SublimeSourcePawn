@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_CURRENT_180]]></content>
+	<tabTrigger>CONTENTS_CURRENT_180</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

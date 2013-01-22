@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[Format(${1:String_buffer}, ${2:maxlength}, ${3:const_String_format})]]></content>
+	<tabTrigger>format</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

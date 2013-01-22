@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_KILLME]]></content>
+	<tabTrigger>EFL_KILLME</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

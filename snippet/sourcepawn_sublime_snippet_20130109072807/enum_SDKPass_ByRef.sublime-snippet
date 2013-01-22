@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKPass_ByRef]]></content>
+	<tabTrigger>SDKPass_ByRef</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

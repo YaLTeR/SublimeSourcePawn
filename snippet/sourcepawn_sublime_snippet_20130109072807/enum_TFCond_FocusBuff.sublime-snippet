@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_FocusBuff]]></content>
+	<tabTrigger>TFCond_FocusBuff</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

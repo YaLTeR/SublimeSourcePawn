@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_PushFloat(${1:Float_value})]]></content>
+	<tabTrigger>call_PushFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

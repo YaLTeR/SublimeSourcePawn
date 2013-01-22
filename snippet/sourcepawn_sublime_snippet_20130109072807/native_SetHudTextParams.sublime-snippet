@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[SetHudTextParams(${1:Float_x}, ${2:Float_y}, ${3:Float_holdTime}, ${4:r}, ${5:g}, ${6:b}, ${7:a})]]></content>
+	<tabTrigger>setHudTextParams</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_PushCellRef(${1:_any_value})]]></content>
+	<tabTrigger>call_PushCellRef</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>commandfilters</description>
+	<content><![CDATA[ProcessTargetString(${1:const_String_pattern}, ${2:admin}, ${3:targets}, ${4:max_targets}, ${5:filter_flags}, ${6:String_target_name}, ${7:tn_maxlength}, ${8:_bool_tn_is_ml})]]></content>
+	<tabTrigger>processTargetString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

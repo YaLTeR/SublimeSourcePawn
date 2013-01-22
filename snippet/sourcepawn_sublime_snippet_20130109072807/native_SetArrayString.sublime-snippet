@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[SetArrayString(${1:Handle_array}, ${2:index}, ${3:const_String_buffer})]]></content>
+	<tabTrigger>setArrayString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

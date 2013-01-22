@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[KickClientEx(${1:client})]]></content>
+	<tabTrigger>kickClientEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

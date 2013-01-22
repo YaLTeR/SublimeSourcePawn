@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKType_Edict]]></content>
+	<tabTrigger>SDKType_Edict</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

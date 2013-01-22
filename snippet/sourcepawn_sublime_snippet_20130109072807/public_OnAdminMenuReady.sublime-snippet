@@ -1,0 +1,9 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[public OnAdminMenuReady(Handle:topmenu)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnAdminMenuReady</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

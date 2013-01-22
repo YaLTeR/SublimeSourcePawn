@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetButtons(${1:client}, ${2:buttons})]]></content>
+	<tabTrigger>client_SetButtons</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

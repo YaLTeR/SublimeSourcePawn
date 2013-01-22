@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[ADMFLAG_CHAT]]></content>
+	<tabTrigger>ADMFLAG_CHAT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

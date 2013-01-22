@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[LogToOpenFileEx(${1:Handle_hndl}, ${2:const_String_message})]]></content>
+	<tabTrigger>logToOpenFileEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

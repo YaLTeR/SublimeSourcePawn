@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/world</description>
+	<content><![CDATA[World_GetMaxs(${1:Float_vec_3})]]></content>
+	<tabTrigger>world_GetMaxs</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

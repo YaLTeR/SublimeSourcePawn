@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[MAPLIST_FLAG_NO_DEFAULT]]></content>
+	<tabTrigger>MAPLIST_FLAG_NO_DEFAULT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

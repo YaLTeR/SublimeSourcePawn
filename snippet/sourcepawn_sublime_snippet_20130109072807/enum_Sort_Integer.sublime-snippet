@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[Sort_Integer]]></content>
+	<tabTrigger>Sort_Integer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

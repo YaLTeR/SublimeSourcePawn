@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSBOX_PREVENT_PLAYER_TOUCH_ENABLE]]></content>
+	<tabTrigger>SF_PHYSBOX_PREVENT_PLAYER_TOUCH_ENABLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

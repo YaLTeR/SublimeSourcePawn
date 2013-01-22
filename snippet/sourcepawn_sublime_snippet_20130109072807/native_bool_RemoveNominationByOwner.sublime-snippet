@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[RemoveNominationByOwner(${1:owner})]]></content>
+	<tabTrigger>removeNominationByOwner</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[StringToFloat(${1:const_String_str})]]></content>
+	<tabTrigger>stringToFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

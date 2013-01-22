@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBPrio_High]]></content>
+	<tabTrigger>DBPrio_High</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

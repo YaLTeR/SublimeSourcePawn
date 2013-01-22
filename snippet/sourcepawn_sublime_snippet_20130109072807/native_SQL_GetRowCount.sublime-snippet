@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetRowCount(${1:Handle_query})]]></content>
+	<tabTrigger>sQL_GetRowCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

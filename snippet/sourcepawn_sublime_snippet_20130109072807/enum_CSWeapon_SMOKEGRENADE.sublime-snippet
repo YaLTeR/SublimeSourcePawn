@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSWeapon_SMOKEGRENADE]]></content>
+	<tabTrigger>CSWeapon_SMOKEGRENADE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

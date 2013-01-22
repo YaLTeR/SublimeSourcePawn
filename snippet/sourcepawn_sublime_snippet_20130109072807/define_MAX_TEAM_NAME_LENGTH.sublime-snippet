@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[MAX_TEAM_NAME_LENGTH]]></content>
+	<tabTrigger>MAX_TEAM_NAME_LENGTH</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

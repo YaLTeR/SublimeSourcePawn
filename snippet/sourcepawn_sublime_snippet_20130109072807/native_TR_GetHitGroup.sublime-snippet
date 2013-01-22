@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_GetHitGroup()]]></content>
+	<tabTrigger>tR_GetHitGroup</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

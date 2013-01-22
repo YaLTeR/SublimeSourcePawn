@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[EndOfMapVoteEnabled()]]></content>
+	<tabTrigger>endOfMapVoteEnabled</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[CookieAccess_Public]]></content>
+	<tabTrigger>CookieAccess_Public</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

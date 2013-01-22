@@ -1,0 +1,9 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[public Action:CS_OnGetWeaponPrice(client, const String:weapon[], &price)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:CS_OnGetWeaponPrice</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

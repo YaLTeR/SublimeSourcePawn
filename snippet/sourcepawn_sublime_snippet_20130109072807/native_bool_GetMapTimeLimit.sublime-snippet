@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[GetMapTimeLimit(${1:_time})]]></content>
+	<tabTrigger>getMapTimeLimit</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

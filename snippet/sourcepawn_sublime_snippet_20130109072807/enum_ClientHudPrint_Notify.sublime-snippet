@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[ClientHudPrint_Notify]]></content>
+	<tabTrigger>ClientHudPrint_Notify</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

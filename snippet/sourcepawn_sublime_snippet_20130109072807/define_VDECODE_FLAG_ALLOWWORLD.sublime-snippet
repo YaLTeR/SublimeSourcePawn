@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[VDECODE_FLAG_ALLOWWORLD]]></content>
+	<tabTrigger>VDECODE_FLAG_ALLOWWORLD</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

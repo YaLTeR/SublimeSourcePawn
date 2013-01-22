@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_UnlockDatabase(${1:Handle_database})]]></content>
+	<tabTrigger>sQL_UnlockDatabase</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

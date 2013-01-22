@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[SetUserAdmin(${1:client}, ${2:AdminId_id})]]></content>
+	<tabTrigger>setUserAdmin</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

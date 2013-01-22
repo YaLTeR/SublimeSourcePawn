@@ -1,0 +1,6 @@
+<snippet>
+	<description>regex</description>
+	<content><![CDATA[REGEX_ERROR_UNKNOWN_OPCODE]]></content>
+	<tabTrigger>REGEX_ERROR_UNKNOWN_OPCODE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[IgniteEntity(${1:entity}, ${2:Float_time})]]></content>
+	<tabTrigger>igniteEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

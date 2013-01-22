@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_IsPlayerInDuel(${1:client})]]></content>
+	<tabTrigger>tF2_IsPlayerInDuel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

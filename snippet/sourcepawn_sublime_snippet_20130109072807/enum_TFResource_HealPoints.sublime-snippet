@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TFResource_HealPoints]]></content>
+	<tabTrigger>TFResource_HealPoints</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

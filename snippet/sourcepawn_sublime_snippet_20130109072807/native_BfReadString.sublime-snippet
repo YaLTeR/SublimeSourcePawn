@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfReadString(${1:Handle_bf}, ${2:String_buffer}, ${3:maxlength})]]></content>
+	<tabTrigger>bfReadString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnPluginEnd()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnPluginEnd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

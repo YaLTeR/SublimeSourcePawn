@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[RemoveCommandListener(${1:CommandListener_callback})]]></content>
+	<tabTrigger>removeCommandListener</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_TmpDamageBonus]]></content>
+	<tabTrigger>TFCond_TmpDamageBonus</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

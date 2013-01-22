@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_PushArray(${1:const_any_value}, ${2:size})]]></content>
+	<tabTrigger>call_PushArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

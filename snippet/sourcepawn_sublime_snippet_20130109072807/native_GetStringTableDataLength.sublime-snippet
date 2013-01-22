@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[GetStringTableDataLength(${1:tableidx}, ${2:stringidx})]]></content>
+	<tabTrigger>getStringTableDataLength</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

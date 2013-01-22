@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKType_CBaseEntity]]></content>
+	<tabTrigger>SDKType_CBaseEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

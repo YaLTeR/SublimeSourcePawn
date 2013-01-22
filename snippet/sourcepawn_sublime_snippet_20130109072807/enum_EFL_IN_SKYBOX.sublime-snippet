@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_IN_SKYBOX]]></content>
+	<tabTrigger>EFL_IN_SKYBOX</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

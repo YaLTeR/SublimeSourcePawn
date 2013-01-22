@@ -1,0 +1,6 @@
+<snippet>
+	<description>geoip</description>
+	<content><![CDATA[GeoipCountry(${1:const_String_ip}, ${2:String_name}, ${3:maxlength})]]></content>
+	<tabTrigger>geoipCountry</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[SEEK_SET]]></content>
+	<tabTrigger>SEEK_SET</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

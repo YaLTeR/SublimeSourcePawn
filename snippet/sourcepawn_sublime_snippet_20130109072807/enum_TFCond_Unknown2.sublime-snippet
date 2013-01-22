@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Unknown2]]></content>
+	<tabTrigger>TFCond_Unknown2</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

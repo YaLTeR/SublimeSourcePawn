@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/convars</description>
+	<content><![CDATA[Convar_IsValidName(${1:const_String_name})]]></content>
+	<tabTrigger>convar_IsValidName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

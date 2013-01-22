@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/strings</description>
+	<content><![CDATA[String_IsNumeric(${1:const_String_str})]]></content>
+	<tabTrigger>string_IsNumeric</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

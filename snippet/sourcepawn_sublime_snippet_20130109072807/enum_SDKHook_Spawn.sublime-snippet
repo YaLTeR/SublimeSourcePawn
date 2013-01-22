@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_Spawn]]></content>
+	<tabTrigger>SDKHook_Spawn</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[GetExcludeMapList(${1:Handle_array})]]></content>
+	<tabTrigger>getExcludeMapList</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

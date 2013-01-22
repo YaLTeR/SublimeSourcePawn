@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[VOICE_TEAM]]></content>
+	<tabTrigger>VOICE_TEAM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

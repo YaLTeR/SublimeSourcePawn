@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_MoveVector(${1:const_Float_start_3}, ${2:const_Float_end_3}, ${3:Float_scale}, ${4:Float_output_3})]]></content>
+	<tabTrigger>math_MoveVector</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

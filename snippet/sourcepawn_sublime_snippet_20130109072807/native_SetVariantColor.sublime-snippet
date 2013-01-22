@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantColor(${1:const_color_4})]]></content>
+	<tabTrigger>setVariantColor</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[Plugin_Failed]]></content>
+	<tabTrigger>Plugin_Failed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

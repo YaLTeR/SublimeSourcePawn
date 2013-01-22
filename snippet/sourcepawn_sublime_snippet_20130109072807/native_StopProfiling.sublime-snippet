@@ -1,0 +1,6 @@
+<snippet>
+	<description>profiler</description>
+	<content><![CDATA[StopProfiling(${1:Handle_prof})]]></content>
+	<tabTrigger>stopProfiling</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

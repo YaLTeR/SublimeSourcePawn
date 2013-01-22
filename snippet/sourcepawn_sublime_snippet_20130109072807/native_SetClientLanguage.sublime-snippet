@@ -1,0 +1,6 @@
+<snippet>
+	<description>lang</description>
+	<content><![CDATA[SetClientLanguage(${1:client}, ${2:language})]]></content>
+	<tabTrigger>setClientLanguage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[ReadFile(${1:Handle_hndl}, ${2:items}, ${3:num_items}, ${4:size})]]></content>
+	<tabTrigger>readFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

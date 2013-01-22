@@ -1,0 +1,9 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[public SMCResult:SMC_EndSection(Handle:smc)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SMCResult:SMC_EndSection</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

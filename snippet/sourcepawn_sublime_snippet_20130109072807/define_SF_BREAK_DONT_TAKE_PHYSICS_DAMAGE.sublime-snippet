@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_BREAK_DONT_TAKE_PHYSICS_DAMAGE]]></content>
+	<tabTrigger>SF_BREAK_DONT_TAKE_PHYSICS_DAMAGE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

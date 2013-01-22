@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupEnergySplash(${1:const_Float_pos_3}, ${2:const_Float_dir_3}, ${3:bool_Explosive})]]></content>
+	<tabTrigger>tE_SetupEnergySplash</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

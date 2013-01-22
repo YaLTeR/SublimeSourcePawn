@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[EndMessage()]]></content>
+	<tabTrigger>endMessage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

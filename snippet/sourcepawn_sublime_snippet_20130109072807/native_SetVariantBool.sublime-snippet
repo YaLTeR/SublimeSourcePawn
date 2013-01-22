@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantBool(${1:bool_val})]]></content>
+	<tabTrigger>setVariantBool</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

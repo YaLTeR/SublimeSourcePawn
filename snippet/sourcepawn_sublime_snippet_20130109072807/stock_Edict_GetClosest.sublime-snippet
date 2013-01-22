@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/edicts</description>
+	<content><![CDATA[Edict_GetClosest(${1:Float_vecOrigin_center_3})]]></content>
+	<tabTrigger>edict_GetClosest</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

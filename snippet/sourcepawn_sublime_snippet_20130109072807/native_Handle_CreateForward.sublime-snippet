@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[CreateForward(${1:ExecType_type}, ${2:ParamType_...})]]></content>
+	<tabTrigger>createForward</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

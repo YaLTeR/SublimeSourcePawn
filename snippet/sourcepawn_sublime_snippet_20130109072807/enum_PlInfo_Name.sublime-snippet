@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[PlInfo_Name]]></content>
+	<tabTrigger>PlInfo_Name</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_RAIDSIREN]]></content>
+	<tabTrigger>SNDLEVEL_RAIDSIREN</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

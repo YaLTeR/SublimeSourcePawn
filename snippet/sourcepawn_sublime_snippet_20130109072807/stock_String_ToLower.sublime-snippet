@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/strings</description>
+	<content><![CDATA[String_ToLower(${1:const_String_input}, ${2:String_output}, ${3:size})]]></content>
+	<tabTrigger>string_ToLower</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

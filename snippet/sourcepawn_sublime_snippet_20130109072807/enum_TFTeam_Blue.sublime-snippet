@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFTeam_Blue]]></content>
+	<tabTrigger>TFTeam_Blue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

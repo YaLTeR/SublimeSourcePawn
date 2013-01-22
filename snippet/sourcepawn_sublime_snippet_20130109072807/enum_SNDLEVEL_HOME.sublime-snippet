@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_HOME]]></content>
+	<tabTrigger>SNDLEVEL_HOME</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

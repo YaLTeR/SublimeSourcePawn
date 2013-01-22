@@ -1,0 +1,6 @@
+<snippet>
+	<description>float</description>
+	<content><![CDATA[ArcSine(${1:Float_angle})]]></content>
+	<tabTrigger>arcSine</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

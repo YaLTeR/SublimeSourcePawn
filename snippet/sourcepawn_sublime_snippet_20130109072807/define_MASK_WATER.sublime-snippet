@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[MASK_WATER]]></content>
+	<tabTrigger>MASK_WATER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

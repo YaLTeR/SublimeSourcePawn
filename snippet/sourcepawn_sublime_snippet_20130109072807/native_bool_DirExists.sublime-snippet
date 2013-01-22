@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[DirExists(${1:const_String_path})]]></content>
+	<tabTrigger>dirExists</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

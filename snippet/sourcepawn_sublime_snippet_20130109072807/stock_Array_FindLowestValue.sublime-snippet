@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/arrays</description>
+	<content><![CDATA[Array_FindLowestValue(${1:any_array}, ${2:size})]]></content>
+	<tabTrigger>array_FindLowestValue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

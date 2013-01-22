@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[RemoveAmbientSoundHook(${1:AmbientSHook_hook})]]></content>
+	<tabTrigger>removeAmbientSoundHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

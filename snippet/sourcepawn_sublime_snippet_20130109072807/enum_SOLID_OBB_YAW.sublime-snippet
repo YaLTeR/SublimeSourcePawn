@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SOLID_OBB_YAW]]></content>
+	<tabTrigger>SOLID_OBB_YAW</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

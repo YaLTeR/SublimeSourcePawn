@@ -1,0 +1,6 @@
+<snippet>
+	<description>helpers</description>
+	<content><![CDATA[FindTarget(${1:client}, ${2:const_String_target})]]></content>
+	<tabTrigger>findTarget</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

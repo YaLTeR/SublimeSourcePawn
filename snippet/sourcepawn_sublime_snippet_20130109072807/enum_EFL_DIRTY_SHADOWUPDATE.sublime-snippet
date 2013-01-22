@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_DIRTY_SHADOWUPDATE]]></content>
+	<tabTrigger>EFL_DIRTY_SHADOWUPDATE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

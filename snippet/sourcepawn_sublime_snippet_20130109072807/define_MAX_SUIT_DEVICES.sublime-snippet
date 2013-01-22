@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[MAX_SUIT_DEVICES]]></content>
+	<tabTrigger>MAX_SUIT_DEVICES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

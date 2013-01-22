@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_PrintToTopEx(${1:clients}, ${2:numClients}, ${3:255}, ${4:255}, ${5:255}, ${6:255}, ${7:10.0}, ${8:const_String_format})]]></content>
+	<tabTrigger>client_PrintToTopEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

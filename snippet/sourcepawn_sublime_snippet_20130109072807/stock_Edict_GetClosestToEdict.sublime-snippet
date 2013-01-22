@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/edicts</description>
+	<content><![CDATA[Edict_GetClosestToEdict(${1:edict})]]></content>
+	<tabTrigger>edict_GetClosestToEdict</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortStrings(${1:String_array}, ${2:num_strings})]]></content>
+	<tabTrigger>sortStrings</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

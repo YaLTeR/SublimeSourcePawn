@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientInKickQueue(${1:client})]]></content>
+	<tabTrigger>isClientInKickQueue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

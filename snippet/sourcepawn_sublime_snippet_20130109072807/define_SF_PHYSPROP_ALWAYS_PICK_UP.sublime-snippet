@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_ALWAYS_PICK_UP]]></content>
+	<tabTrigger>SF_PHYSPROP_ALWAYS_PICK_UP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupBeamFollow(${1:EntIndex}, ${2:ModelIndex}, ${3:HaloIndex}, ${4:Float_Life}, ${5:Float_Width}, ${6:Float_EndWidth}, ${7:FadeLength}, ${8:const_Color_4})]]></content>
+	<tabTrigger>tE_SetupBeamFollow</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

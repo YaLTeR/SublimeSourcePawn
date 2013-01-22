@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TFResource_Dominations]]></content>
+	<tabTrigger>TFResource_Dominations</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[DialogType_Entry]]></content>
+	<tabTrigger>DialogType_Entry</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

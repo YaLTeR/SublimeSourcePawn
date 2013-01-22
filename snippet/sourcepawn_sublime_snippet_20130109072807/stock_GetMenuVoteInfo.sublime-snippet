@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetMenuVoteInfo(${1:param2}, ${2:_winningVotes}, ${3:_totalVotes})]]></content>
+	<tabTrigger>getMenuVoteInfo</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

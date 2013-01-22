@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupSmoke(${1:const_Float_pos_3}, ${2:Model}, ${3:Float_Scale}, ${4:FrameRate})]]></content>
+	<tabTrigger>tE_SetupSmoke</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

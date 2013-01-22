@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantFloat(${1:Float_val})]]></content>
+	<tabTrigger>setVariantFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

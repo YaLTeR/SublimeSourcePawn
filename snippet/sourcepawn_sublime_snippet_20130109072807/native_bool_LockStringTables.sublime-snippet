@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[LockStringTables(${1:bool_lock})]]></content>
+	<tabTrigger>lockStringTables</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[public bool:OnClientConnect(client, String:rejectmsg[], maxlen)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public bool:OnClientConnect</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

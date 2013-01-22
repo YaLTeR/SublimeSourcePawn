@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[CLIENTFILTER_TEAMONE]]></content>
+	<tabTrigger>CLIENTFILTER_TEAMONE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

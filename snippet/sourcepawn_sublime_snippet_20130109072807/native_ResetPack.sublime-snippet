@@ -1,0 +1,6 @@
+<snippet>
+	<description>datapack</description>
+	<content><![CDATA[ResetPack(${1:Handle_pack})]]></content>
+	<tabTrigger>resetPack</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

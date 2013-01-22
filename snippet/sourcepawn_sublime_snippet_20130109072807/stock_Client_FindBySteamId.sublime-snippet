@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_FindBySteamId(${1:const_String_auth})]]></content>
+	<tabTrigger>client_FindBySteamId</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

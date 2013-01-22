@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetUserAdmin(${1:client})]]></content>
+	<tabTrigger>getUserAdmin</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

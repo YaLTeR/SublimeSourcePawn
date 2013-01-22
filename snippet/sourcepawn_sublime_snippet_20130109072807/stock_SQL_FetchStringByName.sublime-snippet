@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/sql</description>
+	<content><![CDATA[SQL_FetchStringByName(${1:Handle_query}, ${2:String_fieldName}, ${3:String_buffer}, ${4:maxlength})]]></content>
+	<tabTrigger>sQL_FetchStringByName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

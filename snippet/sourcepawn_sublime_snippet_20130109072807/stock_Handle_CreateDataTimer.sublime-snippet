@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[CreateDataTimer(${1:Float_interval}, ${2:Timer_func}, ${3:_Handle_datapack})]]></content>
+	<tabTrigger>createDataTimer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

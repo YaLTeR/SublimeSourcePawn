@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[SetEntityModel(${1:entity}, ${2:const_String_model})]]></content>
+	<tabTrigger>setEntityModel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

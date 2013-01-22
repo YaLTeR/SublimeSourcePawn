@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[CreateMenu(${1:MenuHandler_handler})]]></content>
+	<tabTrigger>createMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

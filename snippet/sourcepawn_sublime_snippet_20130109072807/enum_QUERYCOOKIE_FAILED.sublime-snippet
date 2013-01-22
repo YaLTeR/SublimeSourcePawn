@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[QUERYCOOKIE_FAILED]]></content>
+	<tabTrigger>QUERYCOOKIE_FAILED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

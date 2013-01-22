@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_RemovePlayerDisguise(${1:client})]]></content>
+	<tabTrigger>tF2_RemovePlayerDisguise</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

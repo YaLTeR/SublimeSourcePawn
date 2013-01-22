@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[MAXPLAYERS]]></content>
+	<tabTrigger>MAXPLAYERS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

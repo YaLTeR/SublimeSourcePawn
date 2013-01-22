@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBPrio_Normal]]></content>
+	<tabTrigger>DBPrio_Normal</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

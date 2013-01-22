@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[ExplodeString(${1:const_String_text}, ${2:const_String_split}, ${3:String_buffers}, ${4:maxStrings}, ${5:maxStringLength})]]></content>
+	<tabTrigger>explodeString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_ReadDriver(${1:Handle_database})]]></content>
+	<tabTrigger>sQL_ReadDriver</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

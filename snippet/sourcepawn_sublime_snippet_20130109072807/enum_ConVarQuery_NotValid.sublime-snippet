@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ConVarQuery_NotValid]]></content>
+	<tabTrigger>ConVarQuery_NotValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

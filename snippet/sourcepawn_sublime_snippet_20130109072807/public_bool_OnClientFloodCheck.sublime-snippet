@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public bool:OnClientFloodCheck(client)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public bool:OnClientFloodCheck</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

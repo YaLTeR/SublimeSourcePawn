@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[StripQuotes(${1:String_text})]]></content>
+	<tabTrigger>stripQuotes</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

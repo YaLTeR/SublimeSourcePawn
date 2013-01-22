@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_BOT_FROZEN]]></content>
+	<tabTrigger>EFL_BOT_FROZEN</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

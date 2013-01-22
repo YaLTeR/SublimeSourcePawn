@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_LIBRARY]]></content>
+	<tabTrigger>SNDLEVEL_LIBRARY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

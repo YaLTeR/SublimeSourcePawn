@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Param_Any]]></content>
+	<tabTrigger>Param_Any</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

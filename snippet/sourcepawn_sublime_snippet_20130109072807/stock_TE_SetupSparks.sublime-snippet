@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupSparks(${1:const_Float_pos_3}, ${2:const_Float_dir_3}, ${3:Magnitude}, ${4:TrailLength})]]></content>
+	<tabTrigger>tE_SetupSparks</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

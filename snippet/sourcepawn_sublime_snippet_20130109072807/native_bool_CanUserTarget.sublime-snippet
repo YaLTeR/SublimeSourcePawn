@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[CanUserTarget(${1:client}, ${2:target})]]></content>
+	<tabTrigger>canUserTarget</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

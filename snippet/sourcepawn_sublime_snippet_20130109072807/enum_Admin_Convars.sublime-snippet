@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[Admin_Convars]]></content>
+	<tabTrigger>Admin_Convars</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

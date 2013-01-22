@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FEATURECAP_COMMANDLISTENER]]></content>
+	<tabTrigger>FEATURECAP_COMMANDLISTENER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

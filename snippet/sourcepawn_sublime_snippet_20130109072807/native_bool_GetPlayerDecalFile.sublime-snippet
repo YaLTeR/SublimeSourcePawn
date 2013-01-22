@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetPlayerDecalFile(${1:client}, ${2:String_hex}, ${3:maxlength})]]></content>
+	<tabTrigger>getPlayerDecalFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

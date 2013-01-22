@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/files</description>
+	<content><![CDATA[File_GetDirName(${1:const_String_path}, ${2:String_buffer}, ${3:size})]]></content>
+	<tabTrigger>file_GetDirName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

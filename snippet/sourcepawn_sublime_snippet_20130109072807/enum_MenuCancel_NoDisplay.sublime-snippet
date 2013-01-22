@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuCancel_NoDisplay]]></content>
+	<tabTrigger>MenuCancel_NoDisplay</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

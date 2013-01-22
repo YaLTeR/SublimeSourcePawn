@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetDriverProduct(${1:Handle_driver}, ${2:String_product}, ${3:maxlength})]]></content>
+	<tabTrigger>sQL_GetDriverProduct</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

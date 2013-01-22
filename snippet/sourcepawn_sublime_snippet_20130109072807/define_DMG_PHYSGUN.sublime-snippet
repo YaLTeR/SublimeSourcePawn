@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_PHYSGUN]]></content>
+	<tabTrigger>DMG_PHYSGUN</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

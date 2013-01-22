@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_REPLICATED]]></content>
+	<tabTrigger>FCVAR_REPLICATED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

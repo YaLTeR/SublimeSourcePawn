@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_TEAM_T]]></content>
+	<tabTrigger>CS_TEAM_T</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

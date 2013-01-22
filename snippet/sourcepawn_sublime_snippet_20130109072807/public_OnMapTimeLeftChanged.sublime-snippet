@@ -1,0 +1,9 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[public OnMapTimeLeftChanged()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnMapTimeLeftChanged</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

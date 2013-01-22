@@ -1,0 +1,6 @@
+<snippet>
+	<description>helpers</description>
+	<content><![CDATA[FindPluginByFile(${1:const_String_filename})]]></content>
+	<tabTrigger>findPluginByFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

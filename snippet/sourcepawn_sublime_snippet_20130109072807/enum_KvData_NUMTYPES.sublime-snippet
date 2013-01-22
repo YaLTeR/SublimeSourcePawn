@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvData_NUMTYPES]]></content>
+	<tabTrigger>KvData_NUMTYPES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

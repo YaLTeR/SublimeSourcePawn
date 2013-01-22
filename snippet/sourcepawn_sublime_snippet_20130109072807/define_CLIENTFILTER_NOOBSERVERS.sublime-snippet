@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[CLIENTFILTER_NOOBSERVERS]]></content>
+	<tabTrigger>CLIENTFILTER_NOOBSERVERS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

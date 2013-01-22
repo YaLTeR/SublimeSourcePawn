@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_GetFraction()]]></content>
+	<tabTrigger>tR_GetFraction</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

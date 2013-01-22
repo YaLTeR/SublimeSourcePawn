@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_SetViewModelIndex(${1:weapon}, ${2:index})]]></content>
+	<tabTrigger>weapon_SetViewModelIndex</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

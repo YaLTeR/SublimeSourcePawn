@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDPITCH_NORMAL]]></content>
+	<tabTrigger>SNDPITCH_NORMAL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

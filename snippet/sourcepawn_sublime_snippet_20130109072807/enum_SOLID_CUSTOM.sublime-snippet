@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SOLID_CUSTOM]]></content>
+	<tabTrigger>SOLID_CUSTOM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

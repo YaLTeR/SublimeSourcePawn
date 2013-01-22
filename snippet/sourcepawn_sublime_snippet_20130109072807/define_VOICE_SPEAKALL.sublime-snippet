@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[VOICE_SPEAKALL]]></content>
+	<tabTrigger>VOICE_SPEAKALL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

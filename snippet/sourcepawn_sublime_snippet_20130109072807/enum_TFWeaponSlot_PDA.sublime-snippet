@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TFWeaponSlot_PDA]]></content>
+	<tabTrigger>TFWeaponSlot_PDA</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

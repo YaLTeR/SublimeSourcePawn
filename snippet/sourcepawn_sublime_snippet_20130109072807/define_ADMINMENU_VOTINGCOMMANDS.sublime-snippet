@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[ADMINMENU_VOTINGCOMMANDS]]></content>
+	<tabTrigger>ADMINMENU_VOTINGCOMMANDS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

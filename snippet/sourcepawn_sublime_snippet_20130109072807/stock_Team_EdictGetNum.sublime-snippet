@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[Team_EdictGetNum(${1:edict})]]></content>
+	<tabTrigger>team_EdictGetNum</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

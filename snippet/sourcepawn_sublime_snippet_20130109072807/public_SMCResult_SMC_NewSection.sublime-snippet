@@ -1,0 +1,9 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[public SMCResult:SMC_NewSection(Handle:smc, const String:name[], bool:opt_quotes)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SMCResult:SMC_NewSection</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

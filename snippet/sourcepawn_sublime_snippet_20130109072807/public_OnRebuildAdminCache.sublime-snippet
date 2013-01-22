@@ -1,0 +1,9 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[public OnRebuildAdminCache(AdminCachePart:part)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnRebuildAdminCache</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

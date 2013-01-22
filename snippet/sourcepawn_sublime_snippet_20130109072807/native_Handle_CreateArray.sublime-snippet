@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[CreateArray()]]></content>
+	<tabTrigger>createArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

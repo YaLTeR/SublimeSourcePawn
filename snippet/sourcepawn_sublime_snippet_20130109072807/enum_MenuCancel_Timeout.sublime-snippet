@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuCancel_Timeout]]></content>
+	<tabTrigger>MenuCancel_Timeout</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

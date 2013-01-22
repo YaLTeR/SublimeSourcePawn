@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnAutoConfigsBuffered()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnAutoConfigsBuffered</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[public Action:CS_OnTerminateRound(&Float:delay, &CSRoundEndReason:reason)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:CS_OnTerminateRound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

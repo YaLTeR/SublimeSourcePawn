@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetCommandIterator()]]></content>
+	<tabTrigger>getCommandIterator</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

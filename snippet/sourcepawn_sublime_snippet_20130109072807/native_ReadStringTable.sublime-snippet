@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[ReadStringTable(${1:tableidx}, ${2:stringIdx}, ${3:String_str}, ${4:maxlength})]]></content>
+	<tabTrigger>readStringTable</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

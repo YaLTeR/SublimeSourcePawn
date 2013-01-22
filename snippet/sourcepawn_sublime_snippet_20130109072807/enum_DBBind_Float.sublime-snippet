@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBBind_Float]]></content>
+	<tabTrigger>DBBind_Float</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

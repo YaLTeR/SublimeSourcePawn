@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_gamerules</description>
+	<content><![CDATA[GameRules_GetRoundState()]]></content>
+	<tabTrigger>gameRules_GetRoundState</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

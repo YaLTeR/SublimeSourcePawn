@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[Entity_UnLock(${1:entity})]]></content>
+	<tabTrigger>entity_UnLock</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

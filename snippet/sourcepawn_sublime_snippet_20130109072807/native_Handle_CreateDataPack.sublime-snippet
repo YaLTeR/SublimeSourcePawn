@@ -1,0 +1,6 @@
+<snippet>
+	<description>datapack</description>
+	<content><![CDATA[CreateDataPack()]]></content>
+	<tabTrigger>createDataPack</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

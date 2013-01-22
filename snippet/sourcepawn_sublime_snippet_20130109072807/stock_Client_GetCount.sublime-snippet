@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetCount()]]></content>
+	<tabTrigger>client_GetCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

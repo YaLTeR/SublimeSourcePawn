@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[INVALID_STRING_TABLE]]></content>
+	<tabTrigger>INVALID_STRING_TABLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_DEBRIS]]></content>
+	<tabTrigger>CONTENTS_DEBRIS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_CUSTOM_TAUNT_FENCING]]></content>
+	<tabTrigger>TF_CUSTOM_TAUNT_FENCING</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

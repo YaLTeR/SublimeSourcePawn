@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfWriteVecNormal(${1:Handle_bf}, ${2:Float_vec_3})]]></content>
+	<tabTrigger>bfWriteVecNormal</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

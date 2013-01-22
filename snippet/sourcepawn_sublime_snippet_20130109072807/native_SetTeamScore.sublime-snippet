@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[SetTeamScore(${1:index}, ${2:value})]]></content>
+	<tabTrigger>setTeamScore</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

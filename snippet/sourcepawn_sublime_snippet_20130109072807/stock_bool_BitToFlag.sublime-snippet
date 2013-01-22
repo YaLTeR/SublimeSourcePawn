@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[BitToFlag(${1:bit}, ${2:_AdminFlag_flag})]]></content>
+	<tabTrigger>bitToFlag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

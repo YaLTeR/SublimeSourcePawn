@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetConVarFloat(${1:Handle_convar})]]></content>
+	<tabTrigger>getConVarFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

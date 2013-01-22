@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[ADMINMENU_PLAYERCOMMANDS]]></content>
+	<tabTrigger>ADMINMENU_PLAYERCOMMANDS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

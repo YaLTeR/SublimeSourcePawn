@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[SetClientCookie(${1:client}, ${2:Handle_cookie}, ${3:const_String_value})]]></content>
+	<tabTrigger>setClientCookie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

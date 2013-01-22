@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSBOX_NO_ROTORWASH_PUSH]]></content>
+	<tabTrigger>SF_PHYSBOX_NO_ROTORWASH_PUSH</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

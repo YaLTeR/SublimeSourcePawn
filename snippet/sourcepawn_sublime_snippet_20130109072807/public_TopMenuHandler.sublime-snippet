@@ -1,0 +1,9 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[public TopMenuHandler(Handle:topmenu,TopMenuAction:action,TopMenuObject:object_id,param,String:buffer[],maxlength)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public TopMenuHandler</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

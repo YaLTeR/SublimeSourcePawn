@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[GetNativeStringLength(${1:param}, ${2:_length})]]></content>
+	<tabTrigger>getNativeStringLength</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

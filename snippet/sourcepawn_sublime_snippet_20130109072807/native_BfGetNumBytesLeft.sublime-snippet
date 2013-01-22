@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfGetNumBytesLeft(${1:Handle_bf})]]></content>
+	<tabTrigger>bfGetNumBytesLeft</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

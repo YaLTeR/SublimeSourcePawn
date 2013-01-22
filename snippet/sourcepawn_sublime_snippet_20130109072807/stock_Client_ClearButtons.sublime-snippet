@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_ClearButtons(${1:client})]]></content>
+	<tabTrigger>client_ClearButtons</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DAMAGE_NO]]></content>
+	<tabTrigger>DAMAGE_NO</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

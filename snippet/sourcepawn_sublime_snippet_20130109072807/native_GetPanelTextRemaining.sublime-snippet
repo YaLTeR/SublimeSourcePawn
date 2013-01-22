@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetPanelTextRemaining(${1:Handle_panel})]]></content>
+	<tabTrigger>getPanelTextRemaining</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[IsStackEmpty(${1:Handle_stack})]]></content>
+	<tabTrigger>isStackEmpty</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

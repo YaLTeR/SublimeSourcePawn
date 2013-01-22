@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[PrepSDKCall_SetVirtual(${1:vtblidx})]]></content>
+	<tabTrigger>prepSDKCall_SetVirtual</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

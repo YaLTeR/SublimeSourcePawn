@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKUnhook(${1:entity}, ${2:SDKHookType_type}, ${3:SDKHookCB_callback})]]></content>
+	<tabTrigger>sDKUnhook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_BindParamFloat(${1:Handle_statement}, ${2:param}, ${3:Float_value})]]></content>
+	<tabTrigger>sQL_BindParamFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

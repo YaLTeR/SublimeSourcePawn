@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[public Action:AmbientSHook(String:sample[PLATFORM_MAX_PATH], &entity, &Float:volume, &level, &pitch, Float:pos[3], &flags, &Float:delay)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:AmbientSHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

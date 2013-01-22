@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnClientFloodResult(client, bool:blocked)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnClientFloodResult</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

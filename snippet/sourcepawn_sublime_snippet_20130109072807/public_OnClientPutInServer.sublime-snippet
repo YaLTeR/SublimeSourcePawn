@@ -1,0 +1,9 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[public OnClientPutInServer(client)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnClientPutInServer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

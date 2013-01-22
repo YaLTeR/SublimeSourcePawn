@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[MASK_SOLID]]></content>
+	<tabTrigger>MASK_SOLID</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

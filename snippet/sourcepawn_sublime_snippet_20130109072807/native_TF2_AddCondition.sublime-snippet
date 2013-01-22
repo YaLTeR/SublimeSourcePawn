@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_AddCondition(${1:client}, ${2:TFCond_condition}, ${3:Float_duration})]]></content>
+	<tabTrigger>tF2_AddCondition</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

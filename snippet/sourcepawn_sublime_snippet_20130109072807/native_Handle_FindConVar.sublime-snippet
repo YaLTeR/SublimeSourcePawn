@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FindConVar(${1:const_String_name})]]></content>
+	<tabTrigger>findConVar</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

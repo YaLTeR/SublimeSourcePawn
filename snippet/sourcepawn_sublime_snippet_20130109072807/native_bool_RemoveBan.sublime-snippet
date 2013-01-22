@@ -1,0 +1,6 @@
+<snippet>
+	<description>banning</description>
+	<content><![CDATA[RemoveBan(${1:const_String_identity}, ${2:flags})]]></content>
+	<tabTrigger>removeBan</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

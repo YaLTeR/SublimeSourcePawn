@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[GetAdminGroupCount(${1:AdminId_id})]]></content>
+	<tabTrigger>getAdminGroupCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

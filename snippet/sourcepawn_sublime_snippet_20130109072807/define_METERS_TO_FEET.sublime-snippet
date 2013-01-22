@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[METERS_TO_FEET]]></content>
+	<tabTrigger>METERS_TO_FEET</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_array</description>
+	<content><![CDATA[PushArrayCell(${1:Handle_array}, ${2:any_value})]]></content>
+	<tabTrigger>pushArrayCell</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

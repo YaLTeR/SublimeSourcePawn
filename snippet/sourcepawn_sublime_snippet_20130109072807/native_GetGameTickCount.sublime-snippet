@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[GetGameTickCount()]]></content>
+	<tabTrigger>getGameTickCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

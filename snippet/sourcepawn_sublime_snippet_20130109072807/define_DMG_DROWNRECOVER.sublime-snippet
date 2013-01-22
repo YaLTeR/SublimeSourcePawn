@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_DROWNRECOVER]]></content>
+	<tabTrigger>DMG_DROWNRECOVER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

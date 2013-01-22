@@ -1,0 +1,6 @@
+<snippet>
+	<description>datapack</description>
+	<content><![CDATA[IsPackReadable(${1:Handle_pack}, ${2:bytes})]]></content>
+	<tabTrigger>isPackReadable</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

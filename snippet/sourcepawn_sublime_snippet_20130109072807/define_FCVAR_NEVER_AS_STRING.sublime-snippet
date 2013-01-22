@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_NEVER_AS_STRING]]></content>
+	<tabTrigger>FCVAR_NEVER_AS_STRING</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

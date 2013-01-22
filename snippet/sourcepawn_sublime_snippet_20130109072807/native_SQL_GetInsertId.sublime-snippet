@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetInsertId(${1:Handle_hndl})]]></content>
+	<tabTrigger>sQL_GetInsertId</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

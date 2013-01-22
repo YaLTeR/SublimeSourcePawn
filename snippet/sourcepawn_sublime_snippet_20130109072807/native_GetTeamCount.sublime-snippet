@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetTeamCount()]]></content>
+	<tabTrigger>getTeamCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

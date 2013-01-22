@@ -1,0 +1,6 @@
+<snippet>
+	<description>lang</description>
+	<content><![CDATA[GetServerLanguage()]]></content>
+	<tabTrigger>getServerLanguage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

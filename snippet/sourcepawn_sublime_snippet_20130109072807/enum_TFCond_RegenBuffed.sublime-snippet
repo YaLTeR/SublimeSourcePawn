@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_RegenBuffed]]></content>
+	<tabTrigger>TFCond_RegenBuffed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

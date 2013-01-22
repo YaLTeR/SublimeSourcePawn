@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_VectorsEqual(${1:Float_vec1_3}, ${2:Float_vec2_3})]]></content>
+	<tabTrigger>math_VectorsEqual</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

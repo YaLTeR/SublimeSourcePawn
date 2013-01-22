@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupBloodSprite(${1:const_Float_pos_3}, ${2:const_Float_dir_3}, ${3:const_color_4}, ${4:Size}, ${5:SprayModel}, ${6:BloodDropModel})]]></content>
+	<tabTrigger>tE_SetupBloodSprite</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

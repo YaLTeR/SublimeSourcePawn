@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortCustom2D(${1:array}, ${2:array_size}, ${3:SortFunc2D_sortfunc})]]></content>
+	<tabTrigger>sortCustom2D</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

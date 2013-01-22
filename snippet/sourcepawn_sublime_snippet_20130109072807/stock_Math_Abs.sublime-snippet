@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_Abs(${1:value})]]></content>
+	<tabTrigger>math_Abs</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

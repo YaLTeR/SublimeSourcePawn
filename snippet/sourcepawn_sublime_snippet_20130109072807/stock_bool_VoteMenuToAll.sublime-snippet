@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[VoteMenuToAll(${1:Handle_menu}, ${2:time})]]></content>
+	<tabTrigger>voteMenuToAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

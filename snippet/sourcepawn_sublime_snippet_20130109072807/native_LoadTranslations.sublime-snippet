@@ -1,0 +1,6 @@
+<snippet>
+	<description>lang</description>
+	<content><![CDATA[LoadTranslations(${1:const_String_file})]]></content>
+	<tabTrigger>loadTranslations</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

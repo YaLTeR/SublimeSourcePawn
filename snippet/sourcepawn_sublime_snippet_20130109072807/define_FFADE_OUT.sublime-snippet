@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[FFADE_OUT]]></content>
+	<tabTrigger>FFADE_OUT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

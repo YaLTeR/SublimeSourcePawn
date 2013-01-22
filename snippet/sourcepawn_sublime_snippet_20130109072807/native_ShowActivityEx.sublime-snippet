@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ShowActivityEx(${1:client}, ${2:const_String_tag}, ${3:const_String_format})]]></content>
+	<tabTrigger>showActivityEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

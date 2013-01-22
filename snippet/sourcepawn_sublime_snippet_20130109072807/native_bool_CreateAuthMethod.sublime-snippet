@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[CreateAuthMethod(${1:const_String_method})]]></content>
+	<tabTrigger>createAuthMethod</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

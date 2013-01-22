@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ServerCommandEx(${1:String_buffer}, ${2:maxlen}, ${3:const_String_format})]]></content>
+	<tabTrigger>serverCommandEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

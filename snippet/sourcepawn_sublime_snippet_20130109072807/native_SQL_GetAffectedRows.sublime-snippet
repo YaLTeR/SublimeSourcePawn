@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetAffectedRows(${1:Handle_hndl})]]></content>
+	<tabTrigger>sQL_GetAffectedRows</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

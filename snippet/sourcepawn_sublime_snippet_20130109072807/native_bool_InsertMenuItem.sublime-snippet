@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[InsertMenuItem(${1:Handle_menu}, ${2:position}, ${3:const_String_info}, ${4:const_String_display})]]></content>
+	<tabTrigger>insertMenuItem</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

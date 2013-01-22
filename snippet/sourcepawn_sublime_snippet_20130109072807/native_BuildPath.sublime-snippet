@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[BuildPath(${1:PathType_type}, ${2:String_buffer}, ${3:maxlength}, ${4:const_String_fmt})]]></content>
+	<tabTrigger>buildPath</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

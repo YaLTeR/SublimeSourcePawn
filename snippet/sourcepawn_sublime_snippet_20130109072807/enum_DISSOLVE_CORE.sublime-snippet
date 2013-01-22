@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[DISSOLVE_CORE]]></content>
+	<tabTrigger>DISSOLVE_CORE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

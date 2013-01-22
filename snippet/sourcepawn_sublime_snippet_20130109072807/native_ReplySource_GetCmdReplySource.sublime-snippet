@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetCmdReplySource()]]></content>
+	<tabTrigger>getCmdReplySource</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

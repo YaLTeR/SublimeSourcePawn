@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_SetTeamScore(${1:team}, ${2:value})]]></content>
+	<tabTrigger>cS_SetTeamScore</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

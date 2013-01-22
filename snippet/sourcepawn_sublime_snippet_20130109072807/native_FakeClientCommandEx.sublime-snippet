@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FakeClientCommandEx(${1:client}, ${2:const_String_fmt})]]></content>
+	<tabTrigger>fakeClientCommandEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

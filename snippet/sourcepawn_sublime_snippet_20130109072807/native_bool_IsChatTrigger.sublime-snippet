@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[IsChatTrigger()]]></content>
+	<tabTrigger>isChatTrigger</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

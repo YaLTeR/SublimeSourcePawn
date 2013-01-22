@@ -1,0 +1,6 @@
+<snippet>
+	<description>basecomm</description>
+	<content><![CDATA[BaseComm_SetClientGag(${1:client}, ${2:bool_gagState})]]></content>
+	<tabTrigger>baseComm_SetClientGag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

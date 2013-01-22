@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SetVoteResultCallback(${1:Handle_menu}, ${2:VoteHandler_callback})]]></content>
+	<tabTrigger>setVoteResultCallback</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

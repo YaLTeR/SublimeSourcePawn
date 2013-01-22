@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[CreateDirectory(${1:const_String_path}, ${2:mode})]]></content>
+	<tabTrigger>createDirectory</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

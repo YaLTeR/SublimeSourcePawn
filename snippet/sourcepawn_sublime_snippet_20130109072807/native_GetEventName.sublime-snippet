@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[GetEventName(${1:Handle_event}, ${2:String_name}, ${3:maxlength})]]></content>
+	<tabTrigger>getEventName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_DEATHFLAG_ASSISTERREVENGE]]></content>
+	<tabTrigger>TF_DEATHFLAG_ASSISTERREVENGE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

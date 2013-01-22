@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[ATTN_TO_SNDLEVEL(${1:Float_attn})]]></content>
+	<tabTrigger>aTTN_TO_SNDLEVEL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

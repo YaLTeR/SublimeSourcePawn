@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_ShouldCollide]]></content>
+	<tabTrigger>SDKHook_ShouldCollide</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

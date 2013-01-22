@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[FeatureType_Native]]></content>
+	<tabTrigger>FeatureType_Native</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

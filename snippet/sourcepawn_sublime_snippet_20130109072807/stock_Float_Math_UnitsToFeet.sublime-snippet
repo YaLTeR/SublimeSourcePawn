@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_UnitsToFeet(${1:Float_units})]]></content>
+	<tabTrigger>math_UnitsToFeet</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

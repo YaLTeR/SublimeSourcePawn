@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[PrintToServer(${1:const_String_format})]]></content>
+	<tabTrigger>printToServer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

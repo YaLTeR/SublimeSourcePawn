@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ConVarQuery_Protected]]></content>
+	<tabTrigger>ConVarQuery_Protected</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_BindParamInt(${1:Handle_statement}, ${2:param}, ${3:number})]]></content>
+	<tabTrigger>sQL_BindParamInt</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

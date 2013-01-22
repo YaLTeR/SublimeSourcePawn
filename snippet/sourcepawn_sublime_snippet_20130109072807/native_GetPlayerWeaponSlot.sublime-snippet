@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetPlayerWeaponSlot(${1:client}, ${2:slot})]]></content>
+	<tabTrigger>getPlayerWeaponSlot</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

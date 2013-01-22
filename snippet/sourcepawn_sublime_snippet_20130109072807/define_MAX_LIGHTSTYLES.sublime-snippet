@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_engine</description>
+	<content><![CDATA[MAX_LIGHTSTYLES]]></content>
+	<tabTrigger>MAX_LIGHTSTYLES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

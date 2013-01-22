@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[DispatchKeyValueFloat(${1:entity}, ${2:const_String_keyName}, ${3:Float_value})]]></content>
+	<tabTrigger>dispatchKeyValueFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

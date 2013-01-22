@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/vehicles</description>
+	<content><![CDATA[Vehicle_ExitDriver(${1:vehicle})]]></content>
+	<tabTrigger>vehicle_ExitDriver</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

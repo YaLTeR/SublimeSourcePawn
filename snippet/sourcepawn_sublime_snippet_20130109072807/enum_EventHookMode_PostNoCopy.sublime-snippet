@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[EventHookMode_PostNoCopy]]></content>
+	<tabTrigger>EventHookMode_PostNoCopy</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

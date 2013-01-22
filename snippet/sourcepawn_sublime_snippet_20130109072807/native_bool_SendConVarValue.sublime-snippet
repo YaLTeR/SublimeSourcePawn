@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[SendConVarValue(${1:client}, ${2:Handle_convar}, ${3:const_String_value})]]></content>
+	<tabTrigger>sendConVarValue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

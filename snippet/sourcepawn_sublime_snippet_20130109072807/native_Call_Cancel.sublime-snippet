@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_Cancel()]]></content>
+	<tabTrigger>call_Cancel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[ITEMDRAW_DISABLED]]></content>
+	<tabTrigger>ITEMDRAW_DISABLED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

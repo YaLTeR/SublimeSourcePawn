@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[WriteFile(${1:Handle_hndl}, ${2:const_items}, ${3:num_items}, ${4:size})]]></content>
+	<tabTrigger>writeFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

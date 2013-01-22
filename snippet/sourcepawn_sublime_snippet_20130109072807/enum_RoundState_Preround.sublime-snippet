@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_gamerules</description>
+	<content><![CDATA[RoundState_Preround]]></content>
+	<tabTrigger>RoundState_Preround</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

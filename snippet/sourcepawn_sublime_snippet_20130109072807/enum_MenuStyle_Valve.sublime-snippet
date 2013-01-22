@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuStyle_Valve]]></content>
+	<tabTrigger>MenuStyle_Valve</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

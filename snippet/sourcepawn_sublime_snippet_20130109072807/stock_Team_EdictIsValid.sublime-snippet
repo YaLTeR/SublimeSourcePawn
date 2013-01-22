@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[Team_EdictIsValid(${1:edict})]]></content>
+	<tabTrigger>team_EdictIsValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

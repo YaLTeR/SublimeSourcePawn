@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientOfUserId(${1:userid})]]></content>
+	<tabTrigger>getClientOfUserId</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

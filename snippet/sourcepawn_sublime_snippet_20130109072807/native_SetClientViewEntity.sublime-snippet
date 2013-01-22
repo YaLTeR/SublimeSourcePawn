@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_engine</description>
+	<content><![CDATA[SetClientViewEntity(${1:client}, ${2:entity})]]></content>
+	<tabTrigger>setClientViewEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

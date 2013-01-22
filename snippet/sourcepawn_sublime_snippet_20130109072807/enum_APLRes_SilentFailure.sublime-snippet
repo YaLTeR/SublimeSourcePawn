@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[APLRes_SilentFailure]]></content>
+	<tabTrigger>APLRes_SilentFailure</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

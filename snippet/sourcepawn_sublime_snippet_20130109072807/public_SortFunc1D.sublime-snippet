@@ -1,0 +1,9 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[public SortFunc1D(elem1, elem2, const array[], Handle:hndl)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SortFunc1D</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

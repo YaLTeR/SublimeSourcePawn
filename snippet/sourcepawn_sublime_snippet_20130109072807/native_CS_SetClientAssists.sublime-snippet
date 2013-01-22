@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_SetClientAssists(${1:client}, ${2:value})]]></content>
+	<tabTrigger>cS_SetClientAssists</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

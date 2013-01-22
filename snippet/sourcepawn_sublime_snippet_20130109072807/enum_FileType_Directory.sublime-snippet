@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FileType_Directory]]></content>
+	<tabTrigger>FileType_Directory</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

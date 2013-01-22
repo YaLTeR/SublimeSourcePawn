@@ -1,0 +1,6 @@
+<snippet>
+	<description>basecomm</description>
+	<content><![CDATA[BaseComm_IsClientGagged(${1:client})]]></content>
+	<tabTrigger>baseComm_IsClientGagged</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

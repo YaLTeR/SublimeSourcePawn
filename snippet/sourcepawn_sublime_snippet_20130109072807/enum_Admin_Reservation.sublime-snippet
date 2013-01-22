@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[Admin_Reservation]]></content>
+	<tabTrigger>Admin_Reservation</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

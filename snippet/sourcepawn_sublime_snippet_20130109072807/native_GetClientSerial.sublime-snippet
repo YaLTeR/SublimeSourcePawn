@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientSerial(${1:client})]]></content>
+	<tabTrigger>getClientSerial</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

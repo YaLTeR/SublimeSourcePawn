@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_engine</description>
+	<content><![CDATA[GetClientEyePosition(${1:client}, ${2:Float_pos_3})]]></content>
+	<tabTrigger>getClientEyePosition</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

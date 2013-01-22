@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[RegAdminCmd(${1:const_String_cmd}, ${2:ConCmd_callback}, ${3:adminflags})]]></content>
+	<tabTrigger>regAdminCmd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

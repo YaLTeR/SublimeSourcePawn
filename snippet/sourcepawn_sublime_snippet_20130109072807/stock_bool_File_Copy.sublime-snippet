@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/files</description>
+	<content><![CDATA[File_Copy(${1:const_String_source}, ${2:const_String_destination})]]></content>
+	<tabTrigger>file_Copy</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

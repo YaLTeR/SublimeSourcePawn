@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[NominateMap(${1:const_String_map}, ${2:bool_force}, ${3:owner})]]></content>
+	<tabTrigger>nominateMap</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

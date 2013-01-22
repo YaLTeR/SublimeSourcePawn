@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQLite_UseDatabase(${1:const_String_database}, ${2:String_error}, ${3:maxlength})]]></content>
+	<tabTrigger>sQLite_UseDatabase</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

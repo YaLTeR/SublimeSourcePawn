@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[RemoveServerTag(${1:const_String_tag})]]></content>
+	<tabTrigger>removeServerTag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

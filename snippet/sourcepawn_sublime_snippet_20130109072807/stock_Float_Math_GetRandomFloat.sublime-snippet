@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_GetRandomFloat(${1:Float_min}, ${2:Float_max})]]></content>
+	<tabTrigger>math_GetRandomFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

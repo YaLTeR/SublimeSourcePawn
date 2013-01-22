@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_WEAPON_STICKY_BALL_LAUNCHER]]></content>
+	<tabTrigger>TF_WEAPON_STICKY_BALL_LAUNCHER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

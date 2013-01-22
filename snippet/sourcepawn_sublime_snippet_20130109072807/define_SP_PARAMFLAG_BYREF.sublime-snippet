@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SP_PARAMFLAG_BYREF]]></content>
+	<tabTrigger>SP_PARAMFLAG_BYREF</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

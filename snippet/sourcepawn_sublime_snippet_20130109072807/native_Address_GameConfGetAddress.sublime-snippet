@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[GameConfGetAddress(${1:Handle_gameconf}, ${2:const_String_name})]]></content>
+	<tabTrigger>gameConfGetAddress</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

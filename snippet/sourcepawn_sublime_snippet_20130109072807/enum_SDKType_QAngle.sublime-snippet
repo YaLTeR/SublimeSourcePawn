@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKType_QAngle]]></content>
+	<tabTrigger>SDKType_QAngle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

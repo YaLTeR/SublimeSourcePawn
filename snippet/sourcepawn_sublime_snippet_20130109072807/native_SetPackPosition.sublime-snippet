@@ -1,0 +1,6 @@
+<snippet>
+	<description>datapack</description>
+	<content><![CDATA[SetPackPosition(${1:Handle_pack}, ${2:position})]]></content>
+	<tabTrigger>setPackPosition</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

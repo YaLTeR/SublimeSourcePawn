@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientMaxs(${1:client}, ${2:Float_vec_3})]]></content>
+	<tabTrigger>getClientMaxs</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[Admin_Cheats]]></content>
+	<tabTrigger>Admin_Cheats</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDPITCH_HIGH]]></content>
+	<tabTrigger>SNDPITCH_HIGH</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[public Action:ConCmd(client, args)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:ConCmd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

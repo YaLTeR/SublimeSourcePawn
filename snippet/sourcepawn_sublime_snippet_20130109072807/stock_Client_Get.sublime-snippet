@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_Get(${1:clients})]]></content>
+	<tabTrigger>client_Get</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

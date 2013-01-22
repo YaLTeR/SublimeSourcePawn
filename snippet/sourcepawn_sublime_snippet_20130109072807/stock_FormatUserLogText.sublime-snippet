@@ -1,0 +1,6 @@
+<snippet>
+	<description>helpers</description>
+	<content><![CDATA[FormatUserLogText(${1:client}, ${2:String_buffer}, ${3:maxlength})]]></content>
+	<tabTrigger>formatUserLogText</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

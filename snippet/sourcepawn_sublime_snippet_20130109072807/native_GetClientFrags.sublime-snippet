@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientFrags(${1:client})]]></content>
+	<tabTrigger>getClientFrags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

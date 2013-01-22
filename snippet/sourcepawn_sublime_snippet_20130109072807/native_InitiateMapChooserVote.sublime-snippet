@@ -1,0 +1,6 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[InitiateMapChooserVote(${1:MapChange_when})]]></content>
+	<tabTrigger>initiateMapChooserVote</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

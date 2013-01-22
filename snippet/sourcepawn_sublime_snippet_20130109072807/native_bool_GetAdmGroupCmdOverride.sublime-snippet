@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[GetAdmGroupCmdOverride(${1:GroupId_id}, ${2:const_String_name}, ${3:OverrideType_type}, ${4:_OverrideRule_rule})]]></content>
+	<tabTrigger>getAdmGroupCmdOverride</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

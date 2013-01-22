@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[GetServerNetStats(${1:_Float_in}, ${2:_Float_out})]]></content>
+	<tabTrigger>getServerNetStats</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

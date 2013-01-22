@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/vehicles</description>
+	<content><![CDATA[Vehicle_Lock(${1:vehicle})]]></content>
+	<tabTrigger>vehicle_Lock</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

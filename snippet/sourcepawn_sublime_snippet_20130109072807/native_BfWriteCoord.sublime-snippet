@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfWriteCoord(${1:Handle_bf}, ${2:Float_coord})]]></content>
+	<tabTrigger>bfWriteCoord</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

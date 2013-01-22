@@ -1,0 +1,9 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[public TF2_OnConditionRemoved(client, TFCond:condition)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public TF2_OnConditionRemoved</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

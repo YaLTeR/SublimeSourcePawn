@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[MASK_VISIBLE_AND_NPCS]]></content>
+	<tabTrigger>MASK_VISIBLE_AND_NPCS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

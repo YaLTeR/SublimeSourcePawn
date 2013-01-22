@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[ADMINMENU_SERVERCOMMANDS]]></content>
+	<tabTrigger>ADMINMENU_SERVERCOMMANDS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

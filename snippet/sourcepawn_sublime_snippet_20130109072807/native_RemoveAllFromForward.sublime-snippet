@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[RemoveAllFromForward(${1:Handle_fwd}, ${2:Handle_plugin})]]></content>
+	<tabTrigger>removeAllFromForward</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

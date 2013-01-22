@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Overhealed]]></content>
+	<tabTrigger>TFCond_Overhealed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

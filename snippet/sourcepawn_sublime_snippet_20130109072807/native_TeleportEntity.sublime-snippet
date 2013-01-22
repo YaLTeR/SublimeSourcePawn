@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[TeleportEntity(${1:entity}, ${2:const_Float_origin_3}, ${3:const_Float_angles_3}, ${4:const_Float_velocity_3})]]></content>
+	<tabTrigger>teleportEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

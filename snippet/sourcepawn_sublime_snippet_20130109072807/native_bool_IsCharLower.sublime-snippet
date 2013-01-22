@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[IsCharLower(${1:chr})]]></content>
+	<tabTrigger>isCharLower</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

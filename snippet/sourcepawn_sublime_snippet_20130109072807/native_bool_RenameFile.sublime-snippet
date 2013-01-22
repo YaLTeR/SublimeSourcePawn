@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[RenameFile(${1:const_String_newpath}, ${2:const_String_oldpath})]]></content>
+	<tabTrigger>renameFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[Effect_DissolveEntity(${1:entity})]]></content>
+	<tabTrigger>effect_DissolveEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_GameStart]]></content>
+	<tabTrigger>CSRoundEnd_GameStart</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

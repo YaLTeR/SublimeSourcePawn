@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_DIRTY_SURR_COLLISION_BOUNDS]]></content>
+	<tabTrigger>EFL_DIRTY_SURR_COLLISION_BOUNDS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

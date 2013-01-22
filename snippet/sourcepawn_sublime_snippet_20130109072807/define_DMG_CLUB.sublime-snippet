@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_CLUB]]></content>
+	<tabTrigger>DMG_CLUB</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

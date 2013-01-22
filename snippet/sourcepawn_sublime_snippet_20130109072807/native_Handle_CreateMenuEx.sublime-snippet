@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[CreateMenuEx(${1:INVALID_HANDLE}, ${2:MenuHandler_handler})]]></content>
+	<tabTrigger>createMenuEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

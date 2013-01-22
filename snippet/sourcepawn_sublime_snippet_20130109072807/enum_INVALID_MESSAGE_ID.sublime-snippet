@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[INVALID_MESSAGE_ID]]></content>
+	<tabTrigger>INVALID_MESSAGE_ID</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

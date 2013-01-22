@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[DisplayMenu(${1:Handle_menu}, ${2:client}, ${3:time})]]></content>
+	<tabTrigger>displayMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

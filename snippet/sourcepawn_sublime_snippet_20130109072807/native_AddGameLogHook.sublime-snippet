@@ -1,0 +1,6 @@
+<snippet>
+	<description>logging</description>
+	<content><![CDATA[AddGameLogHook(${1:GameLogHook_hook})]]></content>
+	<tabTrigger>addGameLogHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

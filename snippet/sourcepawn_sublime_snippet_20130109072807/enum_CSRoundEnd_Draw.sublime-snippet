@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_Draw]]></content>
+	<tabTrigger>CSRoundEnd_Draw</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

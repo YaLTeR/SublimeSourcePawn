@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKCall(${1:Handle_call})]]></content>
+	<tabTrigger>sDKCall</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

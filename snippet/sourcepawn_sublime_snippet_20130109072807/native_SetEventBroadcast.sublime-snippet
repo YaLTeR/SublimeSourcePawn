@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[SetEventBroadcast(${1:Handle_event}, ${2:bool_dontBroadcast})]]></content>
+	<tabTrigger>setEventBroadcast</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

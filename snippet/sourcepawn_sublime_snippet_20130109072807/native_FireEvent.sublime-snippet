@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[FireEvent(${1:Handle_event})]]></content>
+	<tabTrigger>fireEvent</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

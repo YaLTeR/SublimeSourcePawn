@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMCError_StreamError]]></content>
+	<tabTrigger>SMCError_StreamError</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

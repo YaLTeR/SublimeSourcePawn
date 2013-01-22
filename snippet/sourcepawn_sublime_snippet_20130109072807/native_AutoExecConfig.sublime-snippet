@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[AutoExecConfig()]]></content>
+	<tabTrigger>autoExecConfig</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

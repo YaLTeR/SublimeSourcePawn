@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKCall_GameRules]]></content>
+	<tabTrigger>SDKCall_GameRules</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

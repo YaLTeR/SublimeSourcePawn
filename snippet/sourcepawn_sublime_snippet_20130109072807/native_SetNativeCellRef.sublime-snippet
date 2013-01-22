@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SetNativeCellRef(${1:param}, ${2:any_value})]]></content>
+	<tabTrigger>setNativeCellRef</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[MAX_AMMO_SLOTS]]></content>
+	<tabTrigger>MAX_AMMO_SLOTS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

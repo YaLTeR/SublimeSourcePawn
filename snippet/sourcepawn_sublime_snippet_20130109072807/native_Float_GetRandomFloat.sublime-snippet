@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[GetRandomFloat()]]></content>
+	<tabTrigger>getRandomFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

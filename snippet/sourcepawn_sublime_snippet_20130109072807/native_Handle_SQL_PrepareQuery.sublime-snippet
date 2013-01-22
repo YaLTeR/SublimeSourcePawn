@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_PrepareQuery(${1:Handle_database}, ${2:const_String_query}, ${3:String_error}, ${4:maxlength})]]></content>
+	<tabTrigger>sQL_PrepareQuery</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

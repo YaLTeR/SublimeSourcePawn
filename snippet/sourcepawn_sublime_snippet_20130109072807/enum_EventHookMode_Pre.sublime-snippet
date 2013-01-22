@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[EventHookMode_Pre]]></content>
+	<tabTrigger>EventHookMode_Pre</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

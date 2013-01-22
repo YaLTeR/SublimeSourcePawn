@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_NO_MEGAPHYSCANNON_RAGDOLL]]></content>
+	<tabTrigger>EFL_NO_MEGAPHYSCANNON_RAGDOLL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

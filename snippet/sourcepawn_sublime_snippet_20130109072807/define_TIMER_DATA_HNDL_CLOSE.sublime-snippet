@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[TIMER_DATA_HNDL_CLOSE]]></content>
+	<tabTrigger>TIMER_DATA_HNDL_CLOSE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

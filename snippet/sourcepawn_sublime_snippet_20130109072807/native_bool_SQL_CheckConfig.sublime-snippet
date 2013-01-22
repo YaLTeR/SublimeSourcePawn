@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_CheckConfig(${1:const_String_name})]]></content>
+	<tabTrigger>sQL_CheckConfig</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

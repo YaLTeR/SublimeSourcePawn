@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FPERM_G_READ]]></content>
+	<tabTrigger>FPERM_G_READ</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

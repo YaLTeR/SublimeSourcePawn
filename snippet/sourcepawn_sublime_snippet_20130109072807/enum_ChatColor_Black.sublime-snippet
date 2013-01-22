@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/colors</description>
+	<content><![CDATA[ChatColor_Black]]></content>
+	<tabTrigger>ChatColor_Black</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

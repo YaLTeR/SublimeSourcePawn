@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[Listen_Default]]></content>
+	<tabTrigger>Listen_Default</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

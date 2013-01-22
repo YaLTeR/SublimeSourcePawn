@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/general</description>
+	<content><![CDATA[LongToIP(${1:ip}, ${2:String_buffer}, ${3:size})]]></content>
+	<tabTrigger>longToIP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

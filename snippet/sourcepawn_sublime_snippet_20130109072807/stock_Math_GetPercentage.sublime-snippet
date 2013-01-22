@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[Math_GetPercentage(${1:value}, ${2:all})]]></content>
+	<tabTrigger>math_GetPercentage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

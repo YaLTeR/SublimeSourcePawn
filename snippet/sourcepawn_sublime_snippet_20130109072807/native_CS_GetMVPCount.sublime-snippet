@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_GetMVPCount(${1:client})]]></content>
+	<tabTrigger>cS_GetMVPCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

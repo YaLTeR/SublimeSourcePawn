@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_MoreRows(${1:Handle_query})]]></content>
+	<tabTrigger>sQL_MoreRows</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

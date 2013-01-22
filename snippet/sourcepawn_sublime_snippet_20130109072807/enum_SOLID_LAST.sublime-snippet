@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SOLID_LAST]]></content>
+	<tabTrigger>SOLID_LAST</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

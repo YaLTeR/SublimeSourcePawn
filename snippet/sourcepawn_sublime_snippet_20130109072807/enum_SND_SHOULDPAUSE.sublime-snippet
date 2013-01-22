@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SND_SHOULDPAUSE]]></content>
+	<tabTrigger>SND_SHOULDPAUSE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

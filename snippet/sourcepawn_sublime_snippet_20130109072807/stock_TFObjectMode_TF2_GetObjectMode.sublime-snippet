@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF2_GetObjectMode(${1:entity})]]></content>
+	<tabTrigger>tF2_GetObjectMode</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

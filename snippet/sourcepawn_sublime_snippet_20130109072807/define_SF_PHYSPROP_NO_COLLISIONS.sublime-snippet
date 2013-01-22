@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_NO_COLLISIONS]]></content>
+	<tabTrigger>SF_PHYSPROP_NO_COLLISIONS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

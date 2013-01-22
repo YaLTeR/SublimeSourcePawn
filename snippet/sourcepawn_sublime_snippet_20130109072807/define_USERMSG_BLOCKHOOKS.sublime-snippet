@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[USERMSG_BLOCKHOOKS]]></content>
+	<tabTrigger>USERMSG_BLOCKHOOKS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

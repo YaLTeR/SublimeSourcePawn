@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[ITEMDRAW_IGNORE]]></content>
+	<tabTrigger>ITEMDRAW_IGNORE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

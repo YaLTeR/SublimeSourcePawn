@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FPERM_O_EXEC]]></content>
+	<tabTrigger>FPERM_O_EXEC</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[public SMCResult:SMC_KeyValue(Handle:smc, const String:key[], const String:value[], bool:key_quotes, bool:value_quotes)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SMCResult:SMC_KeyValue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

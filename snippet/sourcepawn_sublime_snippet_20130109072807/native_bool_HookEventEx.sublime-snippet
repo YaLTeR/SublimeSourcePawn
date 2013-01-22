@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[HookEventEx(${1:const_String_name}, ${2:EventHook_callback})]]></content>
+	<tabTrigger>hookEventEx</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

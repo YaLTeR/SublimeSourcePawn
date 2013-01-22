@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_GetFieldCount(${1:Handle_query})]]></content>
+	<tabTrigger>sQL_GetFieldCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

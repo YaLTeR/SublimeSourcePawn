@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_IsInAdminGroup(${1:client}, ${2:const_String_groupName})]]></content>
+	<tabTrigger>client_IsInAdminGroup</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

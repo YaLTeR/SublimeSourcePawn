@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetCommandFlags(${1:const_String_name})]]></content>
+	<tabTrigger>getCommandFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

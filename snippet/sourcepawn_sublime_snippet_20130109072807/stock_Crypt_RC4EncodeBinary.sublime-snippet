@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/crypt</description>
+	<content><![CDATA[Crypt_RC4EncodeBinary(${1:const_String_input}, ${2:str_len}, ${3:const_String_pwd}, ${4:String_output}, ${5:maxlen})]]></content>
+	<tabTrigger>crypt_RC4EncodeBinary</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

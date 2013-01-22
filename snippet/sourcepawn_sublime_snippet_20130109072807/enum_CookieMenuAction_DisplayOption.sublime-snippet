@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[CookieMenuAction_DisplayOption]]></content>
+	<tabTrigger>CookieMenuAction_DisplayOption</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

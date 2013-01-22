@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHooks_DropWeapon(${1:client}, ${2:weapon})]]></content>
+	<tabTrigger>sDKHooks_DropWeapon</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_SetAmmoCounts(${1:weapon}, ${2:primary}, ${3:secondary})]]></content>
+	<tabTrigger>weapon_SetAmmoCounts</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

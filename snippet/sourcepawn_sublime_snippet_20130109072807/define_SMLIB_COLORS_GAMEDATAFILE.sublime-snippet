@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/colors</description>
+	<content><![CDATA[SMLIB_COLORS_GAMEDATAFILE]]></content>
+	<tabTrigger>SMLIB_COLORS_GAMEDATAFILE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[GetUserMessageId(${1:const_String_msg})]]></content>
+	<tabTrigger>getUserMessageId</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

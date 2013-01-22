@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnMapStart()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnMapStart</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

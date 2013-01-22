@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[EmitSound(${1:const_clients}, ${2:numClients}, ${3:const_String_sample})]]></content>
+	<tabTrigger>emitSound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

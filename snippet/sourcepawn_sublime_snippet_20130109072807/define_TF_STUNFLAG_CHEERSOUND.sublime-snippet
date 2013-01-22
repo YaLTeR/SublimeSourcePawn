@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF_STUNFLAG_CHEERSOUND]]></content>
+	<tabTrigger>TF_STUNFLAG_CHEERSOUND</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[GetExtensionFileStatus(${1:const_String_name})]]></content>
+	<tabTrigger>getExtensionFileStatus</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

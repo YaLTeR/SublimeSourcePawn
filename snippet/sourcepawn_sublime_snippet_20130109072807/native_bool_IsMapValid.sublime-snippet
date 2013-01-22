@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[IsMapValid(${1:const_String_map})]]></content>
+	<tabTrigger>isMapValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

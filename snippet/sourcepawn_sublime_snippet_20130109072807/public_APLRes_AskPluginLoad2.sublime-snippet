@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public APLRes:AskPluginLoad2</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

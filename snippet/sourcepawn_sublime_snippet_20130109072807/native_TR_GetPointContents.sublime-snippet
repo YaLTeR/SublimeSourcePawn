@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_GetPointContents(${1:const_Float_pos_3})]]></content>
+	<tabTrigger>tR_GetPointContents</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

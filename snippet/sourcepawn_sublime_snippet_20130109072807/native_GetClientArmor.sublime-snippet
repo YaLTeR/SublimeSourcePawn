@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientArmor(${1:client})]]></content>
+	<tabTrigger>getClientArmor</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

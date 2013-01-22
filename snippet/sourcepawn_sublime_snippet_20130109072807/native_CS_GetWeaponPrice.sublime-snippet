@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_GetWeaponPrice(${1:client}, ${2:CSWeaponID_id})]]></content>
+	<tabTrigger>cS_GetWeaponPrice</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

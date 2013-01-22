@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SOUND_FROM_PLAYER]]></content>
+	<tabTrigger>SOUND_FROM_PLAYER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

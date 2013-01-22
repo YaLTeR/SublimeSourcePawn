@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SP_ERROR_ARRAY_TOO_BIG]]></content>
+	<tabTrigger>SP_ERROR_ARRAY_TOO_BIG</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

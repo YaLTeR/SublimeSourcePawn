@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[CreateDialog(${1:client}, ${2:Handle_kv}, ${3:DialogType_type})]]></content>
+	<tabTrigger>createDialog</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

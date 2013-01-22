@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[MASK_SHOT_HULL]]></content>
+	<tabTrigger>MASK_SHOT_HULL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

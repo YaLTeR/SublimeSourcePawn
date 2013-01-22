@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[public Action:OnGetGameDescription(String:gameDesc[64])
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:OnGetGameDescription</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

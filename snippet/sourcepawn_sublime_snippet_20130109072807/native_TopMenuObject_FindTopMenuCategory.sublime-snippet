@@ -1,0 +1,6 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[FindTopMenuCategory(${1:Handle_topmenu}, ${2:const_String_name})]]></content>
+	<tabTrigger>findTopMenuCategory</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

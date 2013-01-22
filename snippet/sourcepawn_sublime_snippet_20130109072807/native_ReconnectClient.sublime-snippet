@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_client</description>
+	<content><![CDATA[ReconnectClient(${1:client})]]></content>
+	<tabTrigger>reconnectClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

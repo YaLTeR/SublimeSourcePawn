@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[TR_GetPlaneNormal(${1:Handle_hndl}, ${2:Float_normal_3})]]></content>
+	<tabTrigger>tR_GetPlaneNormal</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

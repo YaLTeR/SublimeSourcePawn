@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_trie</description>
+	<content><![CDATA[GetTrieString(${1:Handle_trie}, ${2:const_String_key}, ${3:String_value}, ${4:max_size})]]></content>
+	<tabTrigger>getTrieString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

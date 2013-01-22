@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF2_RemoveWeaponSlot(${1:client}, ${2:slot})]]></content>
+	<tabTrigger>tF2_RemoveWeaponSlot</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

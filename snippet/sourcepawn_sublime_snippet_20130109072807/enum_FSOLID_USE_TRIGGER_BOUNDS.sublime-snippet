@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[FSOLID_USE_TRIGGER_BOUNDS]]></content>
+	<tabTrigger>FSOLID_USE_TRIGGER_BOUNDS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

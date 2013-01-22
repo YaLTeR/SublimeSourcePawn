@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[CanPanelDrawFlags(${1:Handle_panel}, ${2:style})]]></content>
+	<tabTrigger>canPanelDrawFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

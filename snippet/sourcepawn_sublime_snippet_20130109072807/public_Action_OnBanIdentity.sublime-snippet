@@ -1,0 +1,9 @@
+<snippet>
+	<description>banning</description>
+	<content><![CDATA[public Action:OnBanIdentity(const String:identity[],time,flags,const String:reason[],const String:command[],any:source)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:OnBanIdentity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

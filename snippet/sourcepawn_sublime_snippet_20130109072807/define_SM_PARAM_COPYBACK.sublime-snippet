@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SM_PARAM_COPYBACK]]></content>
+	<tabTrigger>SM_PARAM_COPYBACK</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

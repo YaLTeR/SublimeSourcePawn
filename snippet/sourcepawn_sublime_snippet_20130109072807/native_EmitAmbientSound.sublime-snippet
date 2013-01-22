@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[EmitAmbientSound(${1:const_String_name}, ${2:const_Float_pos_3})]]></content>
+	<tabTrigger>emitAmbientSound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

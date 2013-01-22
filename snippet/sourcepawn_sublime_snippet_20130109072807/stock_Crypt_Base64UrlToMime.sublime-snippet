@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/crypt</description>
+	<content><![CDATA[Crypt_Base64UrlToMime(${1:const_String_sString}, ${2:String_sResult}, ${3:len})]]></content>
+	<tabTrigger>crypt_Base64UrlToMime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

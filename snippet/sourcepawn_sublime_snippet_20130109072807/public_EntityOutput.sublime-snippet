@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdktools_entoutput</description>
+	<content><![CDATA[public EntityOutput(const String:output[], caller, activator, Float:delay)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public EntityOutput</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

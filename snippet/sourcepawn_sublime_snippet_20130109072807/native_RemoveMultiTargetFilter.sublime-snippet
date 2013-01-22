@@ -1,0 +1,6 @@
+<snippet>
+	<description>commandfilters</description>
+	<content><![CDATA[RemoveMultiTargetFilter(${1:const_String_pattern}, ${2:MultiTargetFilter_filter})]]></content>
+	<tabTrigger>removeMultiTargetFilter</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

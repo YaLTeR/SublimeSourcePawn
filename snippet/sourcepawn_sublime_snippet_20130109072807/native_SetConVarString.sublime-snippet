@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[SetConVarString(${1:Handle_convar}, ${2:const_String_value})]]></content>
+	<tabTrigger>setConVarString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

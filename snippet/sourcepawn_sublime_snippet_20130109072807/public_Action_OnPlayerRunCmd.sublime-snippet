@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdktools_hooks</description>
+	<content><![CDATA[public Action:OnPlayerRunCmd(client, &buttons, &impulse, Float:vel[3], Float:angles[3], &weapon, &subtype, &cmdnum, &tickcount, &seed, mouse[2])
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:OnPlayerRunCmd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

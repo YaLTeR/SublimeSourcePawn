@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetObserverLastMode(${1:client}, ${2:Obs_Mode_mode})]]></content>
+	<tabTrigger>client_SetObserverLastMode</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

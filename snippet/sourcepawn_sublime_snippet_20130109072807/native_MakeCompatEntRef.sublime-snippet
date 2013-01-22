@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[MakeCompatEntRef(${1:ref})]]></content>
+	<tabTrigger>makeCompatEntRef</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

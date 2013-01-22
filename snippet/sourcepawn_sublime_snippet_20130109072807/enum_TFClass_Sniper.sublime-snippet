@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFClass_Sniper]]></content>
+	<tabTrigger>TFClass_Sniper</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

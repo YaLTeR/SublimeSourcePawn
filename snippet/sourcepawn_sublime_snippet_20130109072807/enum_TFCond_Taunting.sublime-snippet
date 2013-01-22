@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Taunting]]></content>
+	<tabTrigger>TFCond_Taunting</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSWeapon_SG556]]></content>
+	<tabTrigger>CSWeapon_SG556</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

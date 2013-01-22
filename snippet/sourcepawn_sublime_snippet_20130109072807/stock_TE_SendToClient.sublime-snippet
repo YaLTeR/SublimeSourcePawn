@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents</description>
+	<content><![CDATA[TE_SendToClient(${1:client})]]></content>
+	<tabTrigger>tE_SendToClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

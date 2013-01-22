@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSBOX_ASLEEP]]></content>
+	<tabTrigger>SF_PHYSBOX_ASLEEP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

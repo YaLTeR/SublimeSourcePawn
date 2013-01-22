@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF2_SetPlayerResourceData(${1:client}, ${2:TFResourceType_type}, ${3:any_value})]]></content>
+	<tabTrigger>tF2_SetPlayerResourceData</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

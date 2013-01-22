@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[SetAuthIdCookie(${1:const_String_authID}, ${2:Handle_cookie}, ${3:const_String_value})]]></content>
+	<tabTrigger>setAuthIdCookie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

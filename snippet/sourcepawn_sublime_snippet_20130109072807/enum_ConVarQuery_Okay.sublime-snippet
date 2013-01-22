@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ConVarQuery_Okay]]></content>
+	<tabTrigger>ConVarQuery_Okay</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[CreateStack()]]></content>
+	<tabTrigger>createStack</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

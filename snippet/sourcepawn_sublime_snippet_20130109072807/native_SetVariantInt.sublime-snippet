@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantInt(${1:val})]]></content>
+	<tabTrigger>setVariantInt</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[CheckVoteDelay()]]></content>
+	<tabTrigger>checkVoteDelay</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

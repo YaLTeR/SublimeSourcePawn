@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[MAPLIST_FLAG_MAPSFOLDER]]></content>
+	<tabTrigger>MAPLIST_FLAG_MAPSFOLDER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

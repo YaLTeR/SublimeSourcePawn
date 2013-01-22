@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[EmitSentence(${1:const_clients}, ${2:numClients}, ${3:sentence}, ${4:entity})]]></content>
+	<tabTrigger>emitSentence</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

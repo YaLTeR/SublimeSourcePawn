@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKConf_Signature]]></content>
+	<tabTrigger>SDKConf_Signature</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

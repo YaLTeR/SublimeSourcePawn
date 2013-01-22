@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[GetFeatureStatus(${1:FeatureType_type}, ${2:const_String_name})]]></content>
+	<tabTrigger>getFeatureStatus</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

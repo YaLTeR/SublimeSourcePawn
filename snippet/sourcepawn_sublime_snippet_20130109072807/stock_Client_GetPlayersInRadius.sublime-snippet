@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetPlayersInRadius(${1:client}, ${2:clients}, ${3:Float_radius})]]></content>
+	<tabTrigger>client_GetPlayersInRadius</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

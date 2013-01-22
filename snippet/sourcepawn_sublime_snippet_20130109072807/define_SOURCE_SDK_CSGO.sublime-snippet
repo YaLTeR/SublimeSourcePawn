@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[SOURCE_SDK_CSGO]]></content>
+	<tabTrigger>SOURCE_SDK_CSGO</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

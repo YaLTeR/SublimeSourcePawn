@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[GetNativeCell(${1:param})]]></content>
+	<tabTrigger>getNativeCell</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

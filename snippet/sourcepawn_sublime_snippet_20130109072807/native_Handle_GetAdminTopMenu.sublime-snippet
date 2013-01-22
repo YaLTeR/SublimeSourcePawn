@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[GetAdminTopMenu()]]></content>
+	<tabTrigger>getAdminTopMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

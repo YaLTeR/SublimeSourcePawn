@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[GetMenuItemCount(${1:Handle_menu})]]></content>
+	<tabTrigger>getMenuItemCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SetPanelCurrentKey(${1:Handle_panel}, ${2:key})]]></content>
+	<tabTrigger>setPanelCurrentKey</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

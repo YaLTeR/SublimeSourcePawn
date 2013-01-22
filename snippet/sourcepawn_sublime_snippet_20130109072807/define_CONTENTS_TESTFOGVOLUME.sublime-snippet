@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_TESTFOGVOLUME]]></content>
+	<tabTrigger>CONTENTS_TESTFOGVOLUME</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

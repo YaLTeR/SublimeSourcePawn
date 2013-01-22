@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_RespawnPlayer(${1:client})]]></content>
+	<tabTrigger>cS_RespawnPlayer</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

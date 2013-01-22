@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBVal_TypeMismatch]]></content>
+	<tabTrigger>DBVal_TypeMismatch</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

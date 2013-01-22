@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[COLLISION_GROUP_PUSHAWAY]]></content>
+	<tabTrigger>COLLISION_GROUP_PUSHAWAY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

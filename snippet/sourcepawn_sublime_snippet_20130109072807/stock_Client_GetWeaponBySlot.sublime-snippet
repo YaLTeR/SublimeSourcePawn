@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetWeaponBySlot(${1:client}, ${2:slot})]]></content>
+	<tabTrigger>client_GetWeaponBySlot</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

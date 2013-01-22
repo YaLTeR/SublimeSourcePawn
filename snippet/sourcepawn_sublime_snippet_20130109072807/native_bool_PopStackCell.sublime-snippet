@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[PopStackCell(${1:Handle_stack}, ${2:_any_value})]]></content>
+	<tabTrigger>popStackCell</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

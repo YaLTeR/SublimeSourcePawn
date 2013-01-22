@@ -1,0 +1,9 @@
+<snippet>
+	<description>basecomm</description>
+	<content><![CDATA[public BaseComm_OnClientGag(client, bool:gagState)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public BaseComm_OnClientGag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

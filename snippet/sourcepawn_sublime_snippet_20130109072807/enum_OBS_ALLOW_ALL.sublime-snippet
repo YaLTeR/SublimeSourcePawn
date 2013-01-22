@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[OBS_ALLOW_ALL]]></content>
+	<tabTrigger>OBS_ALLOW_ALL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_Finish()]]></content>
+	<tabTrigger>call_Finish</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

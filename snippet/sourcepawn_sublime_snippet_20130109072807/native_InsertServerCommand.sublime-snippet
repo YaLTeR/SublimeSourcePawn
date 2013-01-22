@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[InsertServerCommand(${1:const_String_format})]]></content>
+	<tabTrigger>insertServerCommand</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

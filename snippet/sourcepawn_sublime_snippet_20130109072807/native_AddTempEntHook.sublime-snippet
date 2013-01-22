@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents</description>
+	<content><![CDATA[AddTempEntHook(${1:const_String_te_name}, ${2:TEHook_hook})]]></content>
+	<tabTrigger>addTempEntHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

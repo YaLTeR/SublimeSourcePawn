@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[GetCookieIterator()]]></content>
+	<tabTrigger>getCookieIterator</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

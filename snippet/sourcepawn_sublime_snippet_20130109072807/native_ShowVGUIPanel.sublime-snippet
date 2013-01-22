@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[ShowVGUIPanel(${1:client}, ${2:const_String_name})]]></content>
+	<tabTrigger>showVGUIPanel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

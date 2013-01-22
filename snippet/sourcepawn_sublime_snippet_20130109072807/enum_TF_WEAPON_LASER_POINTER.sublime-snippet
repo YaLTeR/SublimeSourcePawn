@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_WEAPON_LASER_POINTER]]></content>
+	<tabTrigger>TF_WEAPON_LASER_POINTER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

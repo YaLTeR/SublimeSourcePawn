@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[AcceptEntityInput(${1:dest}, ${2:const_String_input})]]></content>
+	<tabTrigger>acceptEntityInput</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

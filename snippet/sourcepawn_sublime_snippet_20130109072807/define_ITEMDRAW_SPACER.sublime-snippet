@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[ITEMDRAW_SPACER]]></content>
+	<tabTrigger>ITEMDRAW_SPACER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

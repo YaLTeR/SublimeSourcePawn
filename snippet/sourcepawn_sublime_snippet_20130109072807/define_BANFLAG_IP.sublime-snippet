@@ -1,0 +1,6 @@
+<snippet>
+	<description>banning</description>
+	<content><![CDATA[BANFLAG_IP]]></content>
+	<tabTrigger>BANFLAG_IP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

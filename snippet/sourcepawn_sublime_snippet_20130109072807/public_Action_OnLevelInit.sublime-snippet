@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[public Action:OnLevelInit(const String:mapName[], String:mapEntities[2097152])
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:OnLevelInit</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

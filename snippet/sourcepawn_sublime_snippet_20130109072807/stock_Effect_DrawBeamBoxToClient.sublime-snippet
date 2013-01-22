@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[Effect_DrawBeamBoxToClient(${1:client}, ${2:const_Float_bottomCorner_3}, ${3:const_Float_upperCorner_3}, ${4:modelIndex}, ${5:haloIndex})]]></content>
+	<tabTrigger>effect_DrawBeamBoxToClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

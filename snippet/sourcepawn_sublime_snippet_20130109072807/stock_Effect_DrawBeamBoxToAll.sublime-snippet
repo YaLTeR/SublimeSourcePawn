@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[Effect_DrawBeamBoxToAll(${1:const_Float_bottomCorner_3}, ${2:const_Float_upperCorner_3}, ${3:modelIndex}, ${4:haloIndex})]]></content>
+	<tabTrigger>effect_DrawBeamBoxToAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SND_CHANGEVOL]]></content>
+	<tabTrigger>SND_CHANGEVOL</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

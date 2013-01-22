@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[USERMSG_INITMSG]]></content>
+	<tabTrigger>USERMSG_INITMSG</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

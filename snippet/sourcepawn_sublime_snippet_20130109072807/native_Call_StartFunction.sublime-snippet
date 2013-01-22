@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[Call_StartFunction(${1:Handle_plugin}, ${2:Function_func})]]></content>
+	<tabTrigger>call_StartFunction</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

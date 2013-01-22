@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_ROCKET]]></content>
+	<tabTrigger>SNDLEVEL_ROCKET</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

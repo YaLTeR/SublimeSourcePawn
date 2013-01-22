@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[Use_On]]></content>
+	<tabTrigger>Use_On</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

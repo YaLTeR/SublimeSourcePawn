@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_UNLOGGED]]></content>
+	<tabTrigger>FCVAR_UNLOGGED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

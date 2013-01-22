@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ReadCommandIterator(${1:Handle_iter}, ${2:String_name}, ${3:nameLen})]]></content>
+	<tabTrigger>readCommandIterator</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

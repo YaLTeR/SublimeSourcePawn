@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Comments</string>
 	<key>scope</key>
-	<string>source.sp</string>
+	<string>source.sp, source.inc</string>
 	<key>settings</key>
 	<dict>
 		<key>shellVariables</key>

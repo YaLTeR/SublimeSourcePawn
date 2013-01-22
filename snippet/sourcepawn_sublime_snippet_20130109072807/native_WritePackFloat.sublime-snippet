@@ -1,0 +1,6 @@
+<snippet>
+	<description>datapack</description>
+	<content><![CDATA[WritePackFloat(${1:Handle_pack}, ${2:Float_val})]]></content>
+	<tabTrigger>writePackFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

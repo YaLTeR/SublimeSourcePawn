@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvDeleteKey(${1:Handle_kv}, ${2:const_String_key})]]></content>
+	<tabTrigger>kvDeleteKey</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[GetMapTimeLeft(${1:_timeleft})]]></content>
+	<tabTrigger>getMapTimeLeft</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

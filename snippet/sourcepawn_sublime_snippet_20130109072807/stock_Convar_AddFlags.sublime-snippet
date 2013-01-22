@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/convars</description>
+	<content><![CDATA[Convar_AddFlags(${1:Handle_convar}, ${2:flags})]]></content>
+	<tabTrigger>convar_AddFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

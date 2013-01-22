@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_HostagesRescued]]></content>
+	<tabTrigger>CSRoundEnd_HostagesRescued</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

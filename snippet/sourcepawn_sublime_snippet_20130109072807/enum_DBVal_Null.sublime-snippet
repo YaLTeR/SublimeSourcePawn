@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBVal_Null]]></content>
+	<tabTrigger>DBVal_Null</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

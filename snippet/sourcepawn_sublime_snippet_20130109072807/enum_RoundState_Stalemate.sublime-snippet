@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_gamerules</description>
+	<content><![CDATA[RoundState_Stalemate]]></content>
+	<tabTrigger>RoundState_Stalemate</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

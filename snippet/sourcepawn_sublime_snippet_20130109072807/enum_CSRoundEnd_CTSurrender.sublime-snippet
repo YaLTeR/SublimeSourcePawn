@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_CTSurrender]]></content>
+	<tabTrigger>CSRoundEnd_CTSurrender</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantVector3D(${1:const_Float_vec_3})]]></content>
+	<tabTrigger>setVariantVector3D</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>regex</description>
+	<content><![CDATA[PCRE_EXTENDED]]></content>
+	<tabTrigger>PCRE_EXTENDED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

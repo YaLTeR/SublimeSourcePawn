@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[VOTEINFO_CLIENT_INDEX]]></content>
+	<tabTrigger>VOTEINFO_CLIENT_INDEX</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

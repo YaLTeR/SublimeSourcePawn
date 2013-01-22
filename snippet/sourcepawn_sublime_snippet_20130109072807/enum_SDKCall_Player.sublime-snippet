@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKCall_Player]]></content>
+	<tabTrigger>SDKCall_Player</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

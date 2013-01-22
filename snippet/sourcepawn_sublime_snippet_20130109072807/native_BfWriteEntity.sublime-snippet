@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfWriteEntity(${1:Handle_bf}, ${2:ent})]]></content>
+	<tabTrigger>bfWriteEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

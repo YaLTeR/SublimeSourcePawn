@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[GetGameTime()]]></content>
+	<tabTrigger>getGameTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

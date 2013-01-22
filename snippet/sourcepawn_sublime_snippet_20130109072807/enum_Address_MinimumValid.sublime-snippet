@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[Address_MinimumValid]]></content>
+	<tabTrigger>Address_MinimumValid</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

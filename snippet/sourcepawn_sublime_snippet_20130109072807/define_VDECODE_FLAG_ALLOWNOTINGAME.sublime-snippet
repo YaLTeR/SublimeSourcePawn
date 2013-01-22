@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[VDECODE_FLAG_ALLOWNOTINGAME]]></content>
+	<tabTrigger>VDECODE_FLAG_ALLOWNOTINGAME</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

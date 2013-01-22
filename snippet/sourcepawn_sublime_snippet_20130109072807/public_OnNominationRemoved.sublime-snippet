@@ -1,0 +1,9 @@
+<snippet>
+	<description>mapchooser</description>
+	<content><![CDATA[public OnNominationRemoved(const String:map[], owner)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnNominationRemoved</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuStyle_Radio]]></content>
+	<tabTrigger>MenuStyle_Radio</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>keyvalues</description>
+	<content><![CDATA[KvCopySubkeys(${1:Handle_origin}, ${2:Handle_dest})]]></content>
+	<tabTrigger>kvCopySubkeys</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

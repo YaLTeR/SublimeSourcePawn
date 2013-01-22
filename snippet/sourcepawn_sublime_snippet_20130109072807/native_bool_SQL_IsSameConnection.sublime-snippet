@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_IsSameConnection(${1:Handle_hndl1}, ${2:Handle_hndl2})]]></content>
+	<tabTrigger>sQL_IsSameConnection</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

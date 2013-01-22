@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKCall_Static]]></content>
+	<tabTrigger>SDKCall_Static</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

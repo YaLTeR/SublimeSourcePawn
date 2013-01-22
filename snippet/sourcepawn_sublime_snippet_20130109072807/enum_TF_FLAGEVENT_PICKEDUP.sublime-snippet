@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_FLAGEVENT_PICKEDUP]]></content>
+	<tabTrigger>TF_FLAGEVENT_PICKEDUP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

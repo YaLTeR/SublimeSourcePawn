@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_DIRTY_ABSTRANSFORM]]></content>
+	<tabTrigger>EFL_DIRTY_ABSTRANSFORM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

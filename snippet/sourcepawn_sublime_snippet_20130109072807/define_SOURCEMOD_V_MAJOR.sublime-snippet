@@ -1,0 +1,6 @@
+<snippet>
+	<description>version_auto</description>
+	<content><![CDATA[SOURCEMOD_V_MAJOR]]></content>
+	<tabTrigger>SOURCEMOD_V_MAJOR</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

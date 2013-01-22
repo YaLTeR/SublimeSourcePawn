@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[VENCODE_FLAG_COPYBACK]]></content>
+	<tabTrigger>VENCODE_FLAG_COPYBACK</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFHoliday_MeetThePyro]]></content>
+	<tabTrigger>TFHoliday_MeetThePyro</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

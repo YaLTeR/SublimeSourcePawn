@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[HIDEHUD_WEAPONSELECTION]]></content>
+	<tabTrigger>HIDEHUD_WEAPONSELECTION</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

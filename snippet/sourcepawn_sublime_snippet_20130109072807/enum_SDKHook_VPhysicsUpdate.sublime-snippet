@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_VPhysicsUpdate]]></content>
+	<tabTrigger>SDKHook_VPhysicsUpdate</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

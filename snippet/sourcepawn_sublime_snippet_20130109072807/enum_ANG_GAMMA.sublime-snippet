@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/math</description>
+	<content><![CDATA[ANG_GAMMA]]></content>
+	<tabTrigger>ANG_GAMMA</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

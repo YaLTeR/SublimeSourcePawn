@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_gamerules</description>
+	<content><![CDATA[RoundState_BetweenRounds]]></content>
+	<tabTrigger>RoundState_BetweenRounds</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

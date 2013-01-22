@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_GroundEntChangedPost]]></content>
+	<tabTrigger>SDKHook_GroundEntChangedPost</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

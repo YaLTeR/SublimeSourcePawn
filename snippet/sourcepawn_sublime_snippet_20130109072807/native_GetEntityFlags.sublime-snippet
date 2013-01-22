@@ -1,0 +1,6 @@
+<snippet>
+	<description>entity_prop_stocks</description>
+	<content><![CDATA[GetEntityFlags(${1:entity})]]></content>
+	<tabTrigger>getEntityFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuAction_Display]]></content>
+	<tabTrigger>MenuAction_Display</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_trie</description>
+	<content><![CDATA[RemoveFromTrie(${1:Handle_trie}, ${2:const_String_key})]]></content>
+	<tabTrigger>removeFromTrie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

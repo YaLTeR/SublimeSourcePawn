@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_FILESYSTEM]]></content>
+	<tabTrigger>FCVAR_FILESYSTEM</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

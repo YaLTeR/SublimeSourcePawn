@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[NegateVector(${1:Float_vec_3})]]></content>
+	<tabTrigger>negateVector</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

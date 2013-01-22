@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[Weapon_SetOwner(${1:weapon}, ${2:entity})]]></content>
+	<tabTrigger>weapon_SetOwner</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_DisguiseRemoved]]></content>
+	<tabTrigger>TFCond_DisguiseRemoved</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

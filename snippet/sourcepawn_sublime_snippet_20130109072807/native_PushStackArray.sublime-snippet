@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[PushStackArray(${1:Handle_stack}, ${2:const_any_values})]]></content>
+	<tabTrigger>pushStackArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

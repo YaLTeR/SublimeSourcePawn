@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[PrecacheModel(${1:const_String_model})]]></content>
+	<tabTrigger>precacheModel</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

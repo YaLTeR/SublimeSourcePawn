@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_HELICOPTER]]></content>
+	<tabTrigger>SNDLEVEL_HELICOPTER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

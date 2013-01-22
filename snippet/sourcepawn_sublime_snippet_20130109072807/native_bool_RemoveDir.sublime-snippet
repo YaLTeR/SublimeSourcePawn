@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[RemoveDir(${1:const_String_path})]]></content>
+	<tabTrigger>removeDir</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>basecomm</description>
+	<content><![CDATA[BaseComm_IsClientMuted(${1:client})]]></content>
+	<tabTrigger>baseComm_IsClientMuted</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientTime(${1:client})]]></content>
+	<tabTrigger>getClientTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

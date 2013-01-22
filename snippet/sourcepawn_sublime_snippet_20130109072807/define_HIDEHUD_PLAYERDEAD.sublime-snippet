@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[HIDEHUD_PLAYERDEAD]]></content>
+	<tabTrigger>HIDEHUD_PLAYERDEAD</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

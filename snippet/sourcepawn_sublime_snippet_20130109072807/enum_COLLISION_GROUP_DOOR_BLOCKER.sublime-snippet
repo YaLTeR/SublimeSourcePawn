@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[COLLISION_GROUP_DOOR_BLOCKER]]></content>
+	<tabTrigger>COLLISION_GROUP_DOOR_BLOCKER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

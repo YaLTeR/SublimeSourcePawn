@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_RemoveAllDecals(${1:client})]]></content>
+	<tabTrigger>client_RemoveAllDecals</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[TopMenuAction_DisplayOption]]></content>
+	<tabTrigger>TopMenuAction_DisplayOption</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

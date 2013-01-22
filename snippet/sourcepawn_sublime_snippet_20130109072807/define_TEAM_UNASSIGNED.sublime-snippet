@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[TEAM_UNASSIGNED]]></content>
+	<tabTrigger>TEAM_UNASSIGNED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

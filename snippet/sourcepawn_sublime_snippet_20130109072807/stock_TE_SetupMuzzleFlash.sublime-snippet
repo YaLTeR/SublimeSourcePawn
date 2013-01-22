@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupMuzzleFlash(${1:const_Float_pos_3}, ${2:const_Float_angles_3}, ${3:Float_Scale}, ${4:Type})]]></content>
+	<tabTrigger>tE_SetupMuzzleFlash</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

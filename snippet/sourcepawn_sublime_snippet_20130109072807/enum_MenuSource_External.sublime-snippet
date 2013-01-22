@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[MenuSource_External]]></content>
+	<tabTrigger>MenuSource_External</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

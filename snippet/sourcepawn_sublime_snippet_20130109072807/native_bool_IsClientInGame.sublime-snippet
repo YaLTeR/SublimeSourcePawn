@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientInGame(${1:client})]]></content>
+	<tabTrigger>isClientInGame</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

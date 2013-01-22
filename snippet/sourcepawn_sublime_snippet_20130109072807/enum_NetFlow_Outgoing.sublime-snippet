@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[NetFlow_Outgoing]]></content>
+	<tabTrigger>NetFlow_Outgoing</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

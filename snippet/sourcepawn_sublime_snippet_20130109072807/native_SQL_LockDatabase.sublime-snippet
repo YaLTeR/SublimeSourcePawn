@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_LockDatabase(${1:Handle_database})]]></content>
+	<tabTrigger>sQL_LockDatabase</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>handles</description>
+	<content><![CDATA[INVALID_HANDLE]]></content>
+	<tabTrigger>INVALID_HANDLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

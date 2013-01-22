@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientHealth(${1:client})]]></content>
+	<tabTrigger>getClientHealth</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>timers</description>
+	<content><![CDATA[TIMER_REPEAT]]></content>
+	<tabTrigger>TIMER_REPEAT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

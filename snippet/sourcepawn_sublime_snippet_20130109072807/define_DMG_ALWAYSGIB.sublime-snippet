@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_ALWAYSGIB]]></content>
+	<tabTrigger>DMG_ALWAYSGIB</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>adminmenu</description>
+	<content><![CDATA[AddTargetsToMenu2(${1:Handle_menu}, ${2:source_client}, ${3:flags})]]></content>
+	<tabTrigger>addTargetsToMenu2</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

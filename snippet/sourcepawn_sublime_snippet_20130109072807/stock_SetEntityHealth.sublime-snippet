@@ -1,0 +1,6 @@
+<snippet>
+	<description>entity_prop_stocks</description>
+	<content><![CDATA[SetEntityHealth(${1:entity}, ${2:amount})]]></content>
+	<tabTrigger>setEntityHealth</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

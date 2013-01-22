@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_entinput</description>
+	<content><![CDATA[SetVariantEntity(${1:entity})]]></content>
+	<tabTrigger>setVariantEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

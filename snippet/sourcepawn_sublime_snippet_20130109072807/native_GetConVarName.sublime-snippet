@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetConVarName(${1:Handle_convar}, ${2:String_name}, ${3:maxlength})]]></content>
+	<tabTrigger>getConVarName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

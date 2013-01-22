@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector</description>
+	<content><![CDATA[GetVectorAngles(${1:const_Float_vec_3}, ${2:Float_angle_3})]]></content>
+	<tabTrigger>getVectorAngles</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

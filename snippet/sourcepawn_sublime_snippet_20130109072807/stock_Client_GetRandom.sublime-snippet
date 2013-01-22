@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetRandom()]]></content>
+	<tabTrigger>client_GetRandom</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_DropWeapon(${1:client}, ${2:weaponIndex}, ${3:bool_toss})]]></content>
+	<tabTrigger>cS_DropWeapon</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[CheckAccess(${1:AdminId_id}, ${2:const_String_command}, ${3:flags})]]></content>
+	<tabTrigger>checkAccess</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

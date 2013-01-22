@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[GetAdmGroupImmuneCount(${1:GroupId_id})]]></content>
+	<tabTrigger>getAdmGroupImmuneCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

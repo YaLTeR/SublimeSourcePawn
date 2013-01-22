@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[SetCookieMenuItem(${1:CookieMenuHandler_handler}, ${2:any_info}, ${3:const_String_display})]]></content>
+	<tabTrigger>setCookieMenuItem</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

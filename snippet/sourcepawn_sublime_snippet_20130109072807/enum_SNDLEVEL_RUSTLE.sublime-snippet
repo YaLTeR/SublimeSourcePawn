@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDLEVEL_RUSTLE]]></content>
+	<tabTrigger>SNDLEVEL_RUSTLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

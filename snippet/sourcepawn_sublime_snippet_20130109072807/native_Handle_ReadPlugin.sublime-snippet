@@ -1,0 +1,6 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[ReadPlugin(${1:Handle_iter})]]></content>
+	<tabTrigger>readPlugin</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

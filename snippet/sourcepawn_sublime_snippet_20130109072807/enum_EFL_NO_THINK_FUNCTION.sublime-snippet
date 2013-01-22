@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_NO_THINK_FUNCTION]]></content>
+	<tabTrigger>EFL_NO_THINK_FUNCTION</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

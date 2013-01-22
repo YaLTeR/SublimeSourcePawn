@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[Listen_Yes]]></content>
+	<tabTrigger>Listen_Yes</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

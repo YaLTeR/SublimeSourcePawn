@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_AliasToWeaponID(${1:const_String_alias})]]></content>
+	<tabTrigger>cS_AliasToWeaponID</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

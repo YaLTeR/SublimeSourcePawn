@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_gamerules</description>
+	<content><![CDATA[RoundState_Restart]]></content>
+	<tabTrigger>RoundState_Restart</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

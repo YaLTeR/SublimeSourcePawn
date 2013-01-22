@@ -1,0 +1,6 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[AddToTopMenu(${1:Handle_topmenu}, ${2:const_String_name}, ${3:TopMenuObjectType_type}, ${4:TopMenuHandler_handler}, ${5:TopMenuObject_parent})]]></content>
+	<tabTrigger>addToTopMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

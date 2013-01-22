@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientReplay(${1:client})]]></content>
+	<tabTrigger>isClientReplay</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

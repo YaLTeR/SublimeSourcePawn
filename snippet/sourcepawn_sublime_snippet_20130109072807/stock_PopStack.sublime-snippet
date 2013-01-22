@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[PopStack(${1:Handle_stack})]]></content>
+	<tabTrigger>popStack</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

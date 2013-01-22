@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/vehicles</description>
+	<content><![CDATA[Vehicle_SetScript(${1:vehicle}, ${2:String_script})]]></content>
+	<tabTrigger>vehicle_SetScript</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

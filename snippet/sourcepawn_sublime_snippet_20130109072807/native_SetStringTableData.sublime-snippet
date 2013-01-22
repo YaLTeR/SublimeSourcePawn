@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_stringtables</description>
+	<content><![CDATA[SetStringTableData(${1:tableidx}, ${2:stringIdx}, ${3:const_String_userdata}, ${4:length})]]></content>
+	<tabTrigger>setStringTableData</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

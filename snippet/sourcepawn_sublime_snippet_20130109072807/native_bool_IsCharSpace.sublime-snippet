@@ -1,0 +1,6 @@
+<snippet>
+	<description>string</description>
+	<content><![CDATA[IsCharSpace(${1:chr})]]></content>
+	<tabTrigger>isCharSpace</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

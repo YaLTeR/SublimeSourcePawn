@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[DMG_PREVENT_PHYSICS_FORCE]]></content>
+	<tabTrigger>DMG_PREVENT_PHYSICS_FORCE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

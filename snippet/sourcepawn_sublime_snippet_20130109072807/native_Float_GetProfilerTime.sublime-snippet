@@ -1,0 +1,6 @@
+<snippet>
+	<description>profiler</description>
+	<content><![CDATA[GetProfilerTime(${1:Handle_prof})]]></content>
+	<tabTrigger>getProfilerTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

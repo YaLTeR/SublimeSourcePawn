@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[FormatNativeString(${1:out_param}, ${2:fmt_param}, ${3:vararg_param}, ${4:out_len})]]></content>
+	<tabTrigger>formatNativeString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

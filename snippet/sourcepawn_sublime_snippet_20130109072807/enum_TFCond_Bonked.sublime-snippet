@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFCond_Bonked]]></content>
+	<tabTrigger>TFCond_Bonked</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

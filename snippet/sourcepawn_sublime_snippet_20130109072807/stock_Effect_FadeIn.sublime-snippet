@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/effects</description>
+	<content><![CDATA[Effect_FadeIn(${1:entity})]]></content>
+	<tabTrigger>effect_FadeIn</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

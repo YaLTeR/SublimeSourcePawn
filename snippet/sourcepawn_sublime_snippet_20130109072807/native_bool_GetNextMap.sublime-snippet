@@ -1,0 +1,6 @@
+<snippet>
+	<description>nextmap</description>
+	<content><![CDATA[GetNextMap(${1:String_map}, ${2:maxlen})]]></content>
+	<tabTrigger>getNextMap</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

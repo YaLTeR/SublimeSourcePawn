@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[CreateConVar(${1:const_String_name}, ${2:const_String_defaultValue})]]></content>
+	<tabTrigger>createConVar</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/general</description>
+	<content><![CDATA[IsParticleSystemPrecached(${1:const_String_particleSystem})]]></content>
+	<tabTrigger>isParticleSystemPrecached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

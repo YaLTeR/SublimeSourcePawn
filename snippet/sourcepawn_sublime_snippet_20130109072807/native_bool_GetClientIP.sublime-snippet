@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientIP(${1:client}, ${2:String_ip}, ${3:maxlen})]]></content>
+	<tabTrigger>getClientIP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[ClientCommand(${1:client}, ${2:const_String_fmt})]]></content>
+	<tabTrigger>clientCommand</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

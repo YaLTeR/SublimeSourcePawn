@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[GetFileTime(${1:const_String_file}, ${2:FileTimeMode_tmode})]]></content>
+	<tabTrigger>getFileTime</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

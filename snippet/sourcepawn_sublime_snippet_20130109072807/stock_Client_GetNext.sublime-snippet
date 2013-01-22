@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_GetNext(${1:flags})]]></content>
+	<tabTrigger>client_GetNext</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

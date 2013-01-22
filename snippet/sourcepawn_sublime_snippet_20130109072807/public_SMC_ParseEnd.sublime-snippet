@@ -1,0 +1,9 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[public SMC_ParseEnd(Handle:smc, bool:halted, bool:failed)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SMC_ParseEnd</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

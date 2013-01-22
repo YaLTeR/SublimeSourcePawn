@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[AreClientCookiesCached(${1:client})]]></content>
+	<tabTrigger>areClientCookiesCached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

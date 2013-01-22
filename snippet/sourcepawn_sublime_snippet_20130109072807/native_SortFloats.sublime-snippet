@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortFloats(${1:Float_array}, ${2:array_size})]]></content>
+	<tabTrigger>sortFloats</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

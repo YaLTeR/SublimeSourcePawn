@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FileTime_LastAccess]]></content>
+	<tabTrigger>FileTime_LastAccess</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

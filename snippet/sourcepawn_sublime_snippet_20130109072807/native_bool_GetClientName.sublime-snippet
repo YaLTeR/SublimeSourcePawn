@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientName(${1:client}, ${2:String_name}, ${3:maxlen})]]></content>
+	<tabTrigger>getClientName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

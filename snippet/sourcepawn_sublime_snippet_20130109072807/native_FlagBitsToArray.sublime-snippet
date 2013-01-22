@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[FlagBitsToArray(${1:bits}, ${2:AdminFlag_array}, ${3:maxSize})]]></content>
+	<tabTrigger>flagBitsToArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

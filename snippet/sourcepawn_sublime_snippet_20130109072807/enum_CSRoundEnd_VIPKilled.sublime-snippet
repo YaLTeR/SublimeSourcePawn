@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_VIPKilled]]></content>
+	<tabTrigger>CSRoundEnd_VIPKilled</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

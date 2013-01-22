@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientCount()]]></content>
+	<tabTrigger>getClientCount</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

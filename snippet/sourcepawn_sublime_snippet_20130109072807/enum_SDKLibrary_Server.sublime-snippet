@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[SDKLibrary_Server]]></content>
+	<tabTrigger>SDKLibrary_Server</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

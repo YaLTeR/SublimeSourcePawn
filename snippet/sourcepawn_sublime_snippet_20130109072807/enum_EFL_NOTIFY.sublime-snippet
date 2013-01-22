@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_NOTIFY]]></content>
+	<tabTrigger>EFL_NOTIFY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

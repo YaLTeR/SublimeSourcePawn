@@ -1,0 +1,6 @@
+<snippet>
+	<description>core</description>
+	<content><![CDATA[AUTOLOAD_EXTENSIONS]]></content>
+	<tabTrigger>AUTOLOAD_EXTENSIONS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

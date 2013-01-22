@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/general</description>
+	<content><![CDATA[IsMaterialPrecached(${1:const_String_material})]]></content>
+	<tabTrigger>isMaterialPrecached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

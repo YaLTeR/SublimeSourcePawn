@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[InternalShowMenu(${1:client}, ${2:const_String_str}, ${3:time})]]></content>
+	<tabTrigger>internalShowMenu</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

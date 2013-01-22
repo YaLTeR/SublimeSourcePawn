@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_functions</description>
+	<content><![CDATA[ExtinguishEntity(${1:client})]]></content>
+	<tabTrigger>extinguishEntity</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

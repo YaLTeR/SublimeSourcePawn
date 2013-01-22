@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_trace</description>
+	<content><![CDATA[CONTENTS_MOVEABLE]]></content>
+	<tabTrigger>CONTENTS_MOVEABLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

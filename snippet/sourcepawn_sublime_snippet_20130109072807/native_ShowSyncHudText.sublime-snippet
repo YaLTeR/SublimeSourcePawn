@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[ShowSyncHudText(${1:client}, ${2:Handle_sync}, ${3:const_String_message})]]></content>
+	<tabTrigger>showSyncHudText</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

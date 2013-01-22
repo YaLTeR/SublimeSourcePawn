@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[PrepSDKCall_SetFromConf(${1:Handle_gameconf}, ${2:SDKFuncConfSource_source}, ${3:const_String_name})]]></content>
+	<tabTrigger>prepSDKCall_SetFromConf</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

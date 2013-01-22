@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMCParse_Continue]]></content>
+	<tabTrigger>SMCParse_Continue</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

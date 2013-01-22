@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[SetConVarFlags(${1:Handle_convar}, ${2:flags})]]></content>
+	<tabTrigger>setConVarFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

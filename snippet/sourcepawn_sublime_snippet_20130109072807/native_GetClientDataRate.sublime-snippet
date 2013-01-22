@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[GetClientDataRate(${1:client})]]></content>
+	<tabTrigger>getClientDataRate</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

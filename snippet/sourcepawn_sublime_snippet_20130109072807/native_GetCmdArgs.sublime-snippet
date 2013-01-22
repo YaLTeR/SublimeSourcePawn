@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetCmdArgs()]]></content>
+	<tabTrigger>getCmdArgs</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

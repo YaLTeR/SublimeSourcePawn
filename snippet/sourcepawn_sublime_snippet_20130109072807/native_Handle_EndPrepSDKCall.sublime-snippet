@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools</description>
+	<content><![CDATA[EndPrepSDKCall()]]></content>
+	<tabTrigger>endPrepSDKCall</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

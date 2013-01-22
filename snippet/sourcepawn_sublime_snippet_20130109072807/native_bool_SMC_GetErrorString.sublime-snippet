@@ -1,0 +1,6 @@
+<snippet>
+	<description>textparse</description>
+	<content><![CDATA[SMC_GetErrorString(${1:SMCError_error}, ${2:String_buffer}, ${3:buf_max})]]></content>
+	<tabTrigger>sMC_GetErrorString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

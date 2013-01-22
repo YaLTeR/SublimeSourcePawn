@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[Client_SetFOV(${1:client}, ${2:value})]]></content>
+	<tabTrigger>client_SetFOV</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>entity_prop_stocks</description>
+	<content><![CDATA[GetClientButtons(${1:client})]]></content>
+	<tabTrigger>getClientButtons</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

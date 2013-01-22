@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_HasResultSet(${1:Handle_query})]]></content>
+	<tabTrigger>sQL_HasResultSet</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

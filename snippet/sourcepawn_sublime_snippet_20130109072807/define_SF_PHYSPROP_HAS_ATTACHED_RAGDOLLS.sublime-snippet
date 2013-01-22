@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_HAS_ATTACHED_RAGDOLLS]]></content>
+	<tabTrigger>SF_PHYSPROP_HAS_ATTACHED_RAGDOLLS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

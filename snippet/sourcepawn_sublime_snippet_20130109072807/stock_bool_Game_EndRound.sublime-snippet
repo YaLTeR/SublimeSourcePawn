@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/game</description>
+	<content><![CDATA[Game_EndRound()]]></content>
+	<tabTrigger>game_EndRound</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

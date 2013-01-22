@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CSRoundEnd_BombDefused]]></content>
+	<tabTrigger>CSRoundEnd_BombDefused</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

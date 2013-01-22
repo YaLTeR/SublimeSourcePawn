@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[AddNormalSoundHook(${1:NormalSHook_hook})]]></content>
+	<tabTrigger>addNormalSoundHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

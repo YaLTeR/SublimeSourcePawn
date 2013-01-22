@@ -1,0 +1,9 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[public MenuHandler(Handle:menu, MenuAction:action, param1, param2)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public MenuHandler</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

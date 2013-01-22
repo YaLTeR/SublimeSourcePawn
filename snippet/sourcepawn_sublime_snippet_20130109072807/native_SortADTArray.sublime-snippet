@@ -1,0 +1,6 @@
+<snippet>
+	<description>sorting</description>
+	<content><![CDATA[SortADTArray(${1:Handle_array}, ${2:SortOrder_order}, ${3:SortType_type})]]></content>
+	<tabTrigger>sortADTArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

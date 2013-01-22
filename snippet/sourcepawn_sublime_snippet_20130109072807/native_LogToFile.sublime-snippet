@@ -1,0 +1,6 @@
+<snippet>
+	<description>logging</description>
+	<content><![CDATA[LogToFile(${1:const_String_file}, ${2:const_String_format})]]></content>
+	<tabTrigger>logToFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

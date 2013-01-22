@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_WeaponEquip]]></content>
+	<tabTrigger>SDKHook_WeaponEquip</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

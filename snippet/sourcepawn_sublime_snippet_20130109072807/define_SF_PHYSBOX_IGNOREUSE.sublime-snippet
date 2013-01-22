@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSBOX_IGNOREUSE]]></content>
+	<tabTrigger>SF_PHYSBOX_IGNOREUSE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

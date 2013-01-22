@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[GuessSDKVersion()]]></content>
+	<tabTrigger>guessSDKVersion</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_IS_BEING_LIFTED_BY_BARNACLE]]></content>
+	<tabTrigger>EFL_IS_BEING_LIFTED_BY_BARNACLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

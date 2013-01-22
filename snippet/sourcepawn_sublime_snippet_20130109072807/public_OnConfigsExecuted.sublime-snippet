@@ -1,0 +1,9 @@
+<snippet>
+	<description>sourcemod</description>
+	<content><![CDATA[public OnConfigsExecuted()
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnConfigsExecuted</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

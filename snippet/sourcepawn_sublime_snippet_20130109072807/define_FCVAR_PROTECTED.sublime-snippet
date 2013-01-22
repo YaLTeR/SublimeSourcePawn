@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_PROTECTED]]></content>
+	<tabTrigger>FCVAR_PROTECTED</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

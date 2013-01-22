@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_FORCE_TOUCH_TRIGGERS]]></content>
+	<tabTrigger>SF_PHYSPROP_FORCE_TOUCH_TRIGGERS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

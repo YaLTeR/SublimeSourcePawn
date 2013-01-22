@@ -1,0 +1,6 @@
+<snippet>
+	<description>clients</description>
+	<content><![CDATA[IsClientTimingOut(${1:client})]]></content>
+	<tabTrigger>isClientTimingOut</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDCHAN_VOICE_BASE]]></content>
+	<tabTrigger>SNDCHAN_VOICE_BASE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

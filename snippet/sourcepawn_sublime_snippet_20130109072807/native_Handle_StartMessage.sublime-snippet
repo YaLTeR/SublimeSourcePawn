@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[StartMessage(${1:String_msgname}, ${2:clients}, ${3:numClients})]]></content>
+	<tabTrigger>startMessage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

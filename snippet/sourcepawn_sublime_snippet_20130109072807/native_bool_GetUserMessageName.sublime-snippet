@@ -1,0 +1,6 @@
+<snippet>
+	<description>usermessages</description>
+	<content><![CDATA[GetUserMessageName(${1:UserMsg_msg_id}, ${2:String_msg}, ${3:maxlength})]]></content>
+	<tabTrigger>getUserMessageName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

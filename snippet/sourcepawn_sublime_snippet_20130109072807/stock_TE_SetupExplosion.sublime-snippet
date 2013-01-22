@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[TE_SetupExplosion(${1:const_Float_pos_3}, ${2:Model}, ${3:Float_Scale}, ${4:Framerate}, ${5:Flags}, ${6:Radius}, ${7:Magnitude})]]></content>
+	<tabTrigger>tE_SetupExplosion</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/teams</description>
+	<content><![CDATA[Team_GetClientCounts()]]></content>
+	<tabTrigger>team_GetClientCounts</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

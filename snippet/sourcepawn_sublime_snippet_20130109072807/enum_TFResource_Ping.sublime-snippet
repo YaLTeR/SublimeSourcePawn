@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TFResource_Ping]]></content>
+	<tabTrigger>TFResource_Ping</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

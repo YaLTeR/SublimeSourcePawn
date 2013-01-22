@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/weapons</description>
+	<content><![CDATA[WEAPON_NOCLIP]]></content>
+	<tabTrigger>WEAPON_NOCLIP</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

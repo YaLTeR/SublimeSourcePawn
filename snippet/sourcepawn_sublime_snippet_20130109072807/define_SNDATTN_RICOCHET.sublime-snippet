@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[SNDATTN_RICOCHET]]></content>
+	<tabTrigger>SNDATTN_RICOCHET</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

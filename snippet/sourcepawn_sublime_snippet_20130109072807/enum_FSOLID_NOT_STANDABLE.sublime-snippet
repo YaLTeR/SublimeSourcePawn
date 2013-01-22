@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[FSOLID_NOT_STANDABLE]]></content>
+	<tabTrigger>FSOLID_NOT_STANDABLE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

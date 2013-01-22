@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/strings</description>
+	<content><![CDATA[String_RemoveList(${1:String_buffer}, ${2:String_removeList}, ${3:size})]]></content>
+	<tabTrigger>string_RemoveList</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

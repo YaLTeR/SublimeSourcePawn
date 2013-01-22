@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[Entity_RemoveFlags(${1:entity}, ${2:flags})]]></content>
+	<tabTrigger>entity_RemoveFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

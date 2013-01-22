@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[PushStackString(${1:Handle_stack}, ${2:const_String_value})]]></content>
+	<tabTrigger>pushStackString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SP_ERROR_NATIVE]]></content>
+	<tabTrigger>SP_ERROR_NATIVE</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

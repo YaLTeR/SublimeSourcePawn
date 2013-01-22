@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFObject_CartDispenser]]></content>
+	<tabTrigger>TFObject_CartDispenser</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

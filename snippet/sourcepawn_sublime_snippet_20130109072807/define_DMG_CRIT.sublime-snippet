@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[DMG_CRIT]]></content>
+	<tabTrigger>DMG_CRIT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

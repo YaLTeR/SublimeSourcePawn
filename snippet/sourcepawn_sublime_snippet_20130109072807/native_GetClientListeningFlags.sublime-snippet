@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[GetClientListeningFlags(${1:client})]]></content>
+	<tabTrigger>getClientListeningFlags</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

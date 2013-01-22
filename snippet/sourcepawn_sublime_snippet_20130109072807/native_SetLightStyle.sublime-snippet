@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_engine</description>
+	<content><![CDATA[SetLightStyle(${1:style}, ${2:const_String_value})]]></content>
+	<tabTrigger>setLightStyle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

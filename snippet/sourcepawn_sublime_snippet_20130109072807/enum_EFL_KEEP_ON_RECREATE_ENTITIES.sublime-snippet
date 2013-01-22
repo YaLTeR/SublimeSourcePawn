@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[EFL_KEEP_ON_RECREATE_ENTITIES]]></content>
+	<tabTrigger>EFL_KEEP_ON_RECREATE_ENTITIES</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

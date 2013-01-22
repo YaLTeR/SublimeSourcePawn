@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHooks_TakeDamage(${1:entity}, ${2:inflictor}, ${3:attacker}, ${4:Float_damage})]]></content>
+	<tabTrigger>sDKHooks_TakeDamage</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

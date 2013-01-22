@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[RedrawMenuItem(${1:const_String_text})]]></content>
+	<tabTrigger>redrawMenuItem</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

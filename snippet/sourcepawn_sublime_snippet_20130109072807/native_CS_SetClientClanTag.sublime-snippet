@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_SetClientClanTag(${1:client}, ${2:const_String_tag})]]></content>
+	<tabTrigger>cS_SetClientClanTag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

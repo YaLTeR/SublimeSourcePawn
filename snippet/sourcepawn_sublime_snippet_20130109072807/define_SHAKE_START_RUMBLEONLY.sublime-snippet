@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[SHAKE_START_RUMBLEONLY]]></content>
+	<tabTrigger>SHAKE_START_RUMBLEONLY</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

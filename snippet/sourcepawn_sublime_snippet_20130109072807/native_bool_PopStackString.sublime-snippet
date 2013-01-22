@@ -1,0 +1,6 @@
+<snippet>
+	<description>adt_stack</description>
+	<content><![CDATA[PopStackString(${1:Handle_stack}, ${2:String_buffer}, ${3:maxlength})]]></content>
+	<tabTrigger>popStackString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

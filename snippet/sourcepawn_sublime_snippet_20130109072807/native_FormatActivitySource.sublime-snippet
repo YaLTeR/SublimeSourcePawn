@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FormatActivitySource(${1:client}, ${2:target}, ${3:const_String_namebuf}, ${4:maxlength})]]></content>
+	<tabTrigger>formatActivitySource</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

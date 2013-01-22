@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_voice</description>
+	<content><![CDATA[IsClientMuted(${1:iMuter}, ${2:iMutee})]]></content>
+	<tabTrigger>isClientMuted</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

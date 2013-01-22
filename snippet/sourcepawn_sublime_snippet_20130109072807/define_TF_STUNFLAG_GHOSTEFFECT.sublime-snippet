@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF_STUNFLAG_GHOSTEFFECT]]></content>
+	<tabTrigger>TF_STUNFLAG_GHOSTEFFECT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

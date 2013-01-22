@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_FieldNumToName(${1:Handle_query}, ${2:field}, ${3:String_name}, ${4:maxlength})]]></content>
+	<tabTrigger>sQL_FieldNumToName</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

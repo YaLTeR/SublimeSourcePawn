@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[bits_SUIT_DEVICE_FLASHLIGHT]]></content>
+	<tabTrigger>bits_SUIT_DEVICE_FLASHLIGHT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[SQL_BindParamString(${1:Handle_statement}, ${2:param}, ${3:const_String_value}, ${4:bool_copy})]]></content>
+	<tabTrigger>sQL_BindParamString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

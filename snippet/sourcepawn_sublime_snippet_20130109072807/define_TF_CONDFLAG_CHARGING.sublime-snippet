@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2_stocks</description>
+	<content><![CDATA[TF_CONDFLAG_CHARGING]]></content>
+	<tabTrigger>TF_CONDFLAG_CHARGING</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

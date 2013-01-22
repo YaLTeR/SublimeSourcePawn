@@ -1,0 +1,9 @@
+<snippet>
+	<description>sdktools_tempents</description>
+	<content><![CDATA[public Action:TEHook(const String:te_name[], const Players[], numClients, Float:delay)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public Action:TEHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

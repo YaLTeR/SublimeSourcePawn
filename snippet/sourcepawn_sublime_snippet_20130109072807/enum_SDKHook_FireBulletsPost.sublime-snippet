@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_FireBulletsPost]]></content>
+	<tabTrigger>SDKHook_FireBulletsPost</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

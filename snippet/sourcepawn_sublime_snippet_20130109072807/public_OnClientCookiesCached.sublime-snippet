@@ -1,0 +1,9 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[public OnClientCookiesCached(client)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public OnClientCookiesCached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

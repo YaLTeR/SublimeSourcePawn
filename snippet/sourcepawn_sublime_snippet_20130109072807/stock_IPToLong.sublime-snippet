@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/general</description>
+	<content><![CDATA[IPToLong(${1:const_String_ip})]]></content>
+	<tabTrigger>iPToLong</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

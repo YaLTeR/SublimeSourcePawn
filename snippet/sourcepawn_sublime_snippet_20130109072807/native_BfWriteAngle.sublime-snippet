@@ -1,0 +1,6 @@
+<snippet>
+	<description>bitbuffer</description>
+	<content><![CDATA[BfWriteAngle(${1:Handle_bf}, ${2:Float_angle})]]></content>
+	<tabTrigger>bfWriteAngle</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

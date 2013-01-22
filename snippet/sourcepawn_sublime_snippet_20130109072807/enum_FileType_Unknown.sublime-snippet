@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FileType_Unknown]]></content>
+	<tabTrigger>FileType_Unknown</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

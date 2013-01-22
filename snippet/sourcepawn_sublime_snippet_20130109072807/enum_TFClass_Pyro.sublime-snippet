@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFClass_Pyro]]></content>
+	<tabTrigger>TFClass_Pyro</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

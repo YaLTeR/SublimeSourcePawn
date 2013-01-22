@@ -1,0 +1,6 @@
+<snippet>
+	<description>logging</description>
+	<content><![CDATA[RemoveGameLogHook(${1:GameLogHook_hook})]]></content>
+	<tabTrigger>removeGameLogHook</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

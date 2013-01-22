@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TF2_MakeBleed(${1:client}, ${2:attacker}, ${3:Float_duration})]]></content>
+	<tabTrigger>tF2_MakeBleed</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

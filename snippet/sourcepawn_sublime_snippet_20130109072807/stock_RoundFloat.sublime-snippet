@@ -1,0 +1,6 @@
+<snippet>
+	<description>float</description>
+	<content><![CDATA[RoundFloat(${1:Float_value})]]></content>
+	<tabTrigger>roundFloat</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

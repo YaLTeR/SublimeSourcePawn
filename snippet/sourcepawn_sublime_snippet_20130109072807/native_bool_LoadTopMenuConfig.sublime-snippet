@@ -1,0 +1,6 @@
+<snippet>
+	<description>topmenus</description>
+	<content><![CDATA[LoadTopMenuConfig(${1:Handle_topmenu}, ${2:const_String_file}, ${3:String_error}, ${4:maxlength})]]></content>
+	<tabTrigger>loadTopMenuConfig</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

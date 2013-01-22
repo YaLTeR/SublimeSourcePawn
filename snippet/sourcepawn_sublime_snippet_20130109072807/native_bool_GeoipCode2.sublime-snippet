@@ -1,0 +1,6 @@
+<snippet>
+	<description>geoip</description>
+	<content><![CDATA[GeoipCode2(${1:const_String_ip}, ${2:String_ccode_3})]]></content>
+	<tabTrigger>geoipCode2</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

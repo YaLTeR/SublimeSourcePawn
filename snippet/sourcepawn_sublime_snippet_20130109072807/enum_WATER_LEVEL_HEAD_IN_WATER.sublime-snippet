@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/clients</description>
+	<content><![CDATA[WATER_LEVEL_HEAD_IN_WATER]]></content>
+	<tabTrigger>WATER_LEVEL_HEAD_IN_WATER</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

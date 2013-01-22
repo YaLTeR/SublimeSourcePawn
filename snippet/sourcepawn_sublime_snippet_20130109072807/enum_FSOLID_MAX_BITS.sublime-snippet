@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[FSOLID_MAX_BITS]]></content>
+	<tabTrigger>FSOLID_MAX_BITS</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

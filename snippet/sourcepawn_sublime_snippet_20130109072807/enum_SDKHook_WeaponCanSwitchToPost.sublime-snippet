@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdkhooks</description>
+	<content><![CDATA[SDKHook_WeaponCanSwitchToPost]]></content>
+	<tabTrigger>SDKHook_WeaponCanSwitchToPost</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

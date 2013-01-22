@@ -1,0 +1,6 @@
+<snippet>
+	<description>menus</description>
+	<content><![CDATA[SendPanelToClient(${1:Handle_panel}, ${2:client}, ${3:MenuHandler_handler}, ${4:time})]]></content>
+	<tabTrigger>sendPanelToClient</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

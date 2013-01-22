@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[FileTime_Created]]></content>
+	<tabTrigger>FileTime_Created</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

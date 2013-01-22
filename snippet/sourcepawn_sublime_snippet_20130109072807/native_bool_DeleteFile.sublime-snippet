@@ -1,0 +1,6 @@
+<snippet>
+	<description>files</description>
+	<content><![CDATA[DeleteFile(${1:const_String_path})]]></content>
+	<tabTrigger>deleteFile</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

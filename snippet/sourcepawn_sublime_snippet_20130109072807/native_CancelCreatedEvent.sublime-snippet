@@ -1,0 +1,6 @@
+<snippet>
+	<description>events</description>
+	<content><![CDATA[CancelCreatedEvent(${1:Handle_event})]]></content>
+	<tabTrigger>cancelCreatedEvent</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

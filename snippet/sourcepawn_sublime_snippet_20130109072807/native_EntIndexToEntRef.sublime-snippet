@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[EntIndexToEntRef(${1:entity})]]></content>
+	<tabTrigger>entIndexToEntRef</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

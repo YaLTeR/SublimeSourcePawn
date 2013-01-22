@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[GetClientCookie(${1:client}, ${2:Handle_cookie}, ${3:String_buffer}, ${4:maxlen})]]></content>
+	<tabTrigger>getClientCookie</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

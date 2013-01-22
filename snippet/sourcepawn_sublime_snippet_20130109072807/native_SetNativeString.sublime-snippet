@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[SetNativeString(${1:param}, ${2:const_String_source}, ${3:maxlength})]]></content>
+	<tabTrigger>setNativeString</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

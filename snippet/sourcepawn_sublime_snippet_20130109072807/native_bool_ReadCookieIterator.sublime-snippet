@@ -1,0 +1,6 @@
+<snippet>
+	<description>clientprefs</description>
+	<content><![CDATA[ReadCookieIterator(${1:Handle_iter}, ${2:String_name}, ${3:nameLen}, ${4:_CookieAccess_access})]]></content>
+	<tabTrigger>readCookieIterator</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

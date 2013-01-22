@@ -1,0 +1,6 @@
+<snippet>
+	<description>smlib/entities</description>
+	<content><![CDATA[SF_PHYSPROP_ENABLE_ON_PHYSCANNON]]></content>
+	<tabTrigger>SF_PHYSPROP_ENABLE_ON_PHYSCANNON</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

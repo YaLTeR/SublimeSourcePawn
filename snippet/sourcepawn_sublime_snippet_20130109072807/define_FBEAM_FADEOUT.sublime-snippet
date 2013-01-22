@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_tempents_stocks</description>
+	<content><![CDATA[FBEAM_FADEOUT]]></content>
+	<tabTrigger>FBEAM_FADEOUT</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

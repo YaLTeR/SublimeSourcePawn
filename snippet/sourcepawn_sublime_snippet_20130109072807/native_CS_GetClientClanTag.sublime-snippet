@@ -1,0 +1,6 @@
+<snippet>
+	<description>cstrike</description>
+	<content><![CDATA[CS_GetClientClanTag(${1:client}, ${2:String_buffer}, ${3:size})]]></content>
+	<tabTrigger>cS_GetClientClanTag</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

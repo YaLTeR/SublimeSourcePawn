@@ -1,0 +1,6 @@
+<snippet>
+	<description>sdktools_sound</description>
+	<content><![CDATA[EmitSoundToAll(${1:const_String_sample})]]></content>
+	<tabTrigger>emitSoundToAll</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

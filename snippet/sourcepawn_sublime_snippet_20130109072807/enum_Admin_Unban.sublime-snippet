@@ -1,0 +1,6 @@
+<snippet>
+	<description>admin</description>
+	<content><![CDATA[Admin_Unban]]></content>
+	<tabTrigger>Admin_Unban</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

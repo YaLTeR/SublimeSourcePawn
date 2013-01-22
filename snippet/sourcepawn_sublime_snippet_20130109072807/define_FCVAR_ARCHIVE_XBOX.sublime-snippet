@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[FCVAR_ARCHIVE_XBOX]]></content>
+	<tabTrigger>FCVAR_ARCHIVE_XBOX</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

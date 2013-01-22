@@ -1,0 +1,6 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[DBVal_Error]]></content>
+	<tabTrigger>DBVal_Error</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

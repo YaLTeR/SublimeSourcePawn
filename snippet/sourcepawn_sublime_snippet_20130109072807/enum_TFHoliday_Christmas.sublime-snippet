@@ -1,0 +1,6 @@
+<snippet>
+	<description>tf2</description>
+	<content><![CDATA[TFHoliday_Christmas]]></content>
+	<tabTrigger>TFHoliday_Christmas</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

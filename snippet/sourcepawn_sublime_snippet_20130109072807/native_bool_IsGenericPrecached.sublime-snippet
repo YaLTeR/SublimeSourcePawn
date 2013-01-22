@@ -1,0 +1,6 @@
+<snippet>
+	<description>halflife</description>
+	<content><![CDATA[IsGenericPrecached(${1:const_String_generic})]]></content>
+	<tabTrigger>isGenericPrecached</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

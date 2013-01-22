@@ -1,0 +1,9 @@
+<snippet>
+	<description>dbi</description>
+	<content><![CDATA[public SQLTCallback(Handle:owner, Handle:hndl, const String:error[], any:data)
+{
+	${1:/* code */}
+}]]></content>
+	<tabTrigger>public SQLTCallback</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

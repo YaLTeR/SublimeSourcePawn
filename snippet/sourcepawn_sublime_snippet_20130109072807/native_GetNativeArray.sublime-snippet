@@ -1,0 +1,6 @@
+<snippet>
+	<description>functions</description>
+	<content><![CDATA[GetNativeArray(${1:param}, ${2:any_local}, ${3:size})]]></content>
+	<tabTrigger>getNativeArray</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>

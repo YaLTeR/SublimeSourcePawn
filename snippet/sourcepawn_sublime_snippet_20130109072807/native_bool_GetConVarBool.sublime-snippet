@@ -1,0 +1,6 @@
+<snippet>
+	<description>console</description>
+	<content><![CDATA[GetConVarBool(${1:Handle_convar})]]></content>
+	<tabTrigger>getConVarBool</tabTrigger>
+	<scope>source.sp, source.inc</scope>
+</snippet>
