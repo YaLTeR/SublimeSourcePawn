@@ -12,7 +12,7 @@ Installation
 * Install [Package Control.](http://wbond.net/sublime_packages/package_control)
 * Select **Preferences->Browse Packages...**
 * Go one folder up, and then down into the **Installed Packages** folder.
-* Drop the **.sublime-project** file over there and restart Sublime Text.
+* Drop the **.sublime-package** file over there and restart Sublime Text.
 
 Contributing
 ------------
